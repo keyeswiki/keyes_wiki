@@ -3,10 +3,10 @@
 [官网](http://keyes-robot.com/)
 
 
-* [Arduino IDE](http://arduino-ide.readthedocs.io/)
-* [KidsBlock IDE](http://kidsblock-ide.readthedocs.io/)
-* [Thonny IDE](http://thonny-ide.readthedocs.io/)
-* [MakeCode IDE](http://makecode-ide.readthedocs.io/)
+* [Arduino IDE](https://www.keyesrobot.cn/projects/Arduino/en/latest/)
+* [KidsBlock IDE](https://www.keyesrobot.cn/projects/KidsBlock/en/latest/)
+* [Thonny IDE](https://www.keyesrobot.cn/projects/Thonny/en/latest/)
+* [MakeCode IDE](https://www.keyesrobot.cn/projects/MakeCode/en/latest/)
 
 
 ---
