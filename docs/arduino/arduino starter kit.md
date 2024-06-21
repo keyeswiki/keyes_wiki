@@ -31,6 +31,10 @@
 * [KE3086-KE3087-KE3088(KE3086S-KE3087S-KE3088S) Keyes Arduino UNO R4 24款传感器学习套装](https://www.keyesrobot.cn/projects/KE3086-KE3087-KE3088-KE3086S-KE3087S-KE3088S/en/latest/)
 
 
+* [KE3095(KE3095S) Keyes STEM电子积木 传感器高级套件](https://www.keyesrobot.cn/projects/KE3095/en/latest/)
+* [KE3096(KE3096S) Keyes STEM电子积木 传感器中级套件](https://www.keyesrobot.cn/projects/KE3096/en/latest/)
+* [KE3097(KE3097S) Keyes STEM电子积木 传感器初级套件](https://www.keyesrobot.cn/projects/KE3097-KE3097S/en/latest/)
+
 
 
 
