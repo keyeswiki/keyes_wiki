@@ -16,7 +16,7 @@
 ---
 # Micro:bit
 
-| [Microbit套件](/docs/microbit/microbit%20kit.md)| [智能玩具](/docs/microbit/智能玩具.md)|
+| [Microbit套件](/docs/microbit/Microbit套件.md)| [智能玩具](/docs/microbit/microbit智能玩具.md)|
 |-----------------------------------------------|-----------------------------------------------|
 | | |
 
