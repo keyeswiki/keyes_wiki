@@ -1,7 +1,7 @@
 # Arduino
 
 
-| [Arduino套件](/docs/arduino/Arduino套件.md)| [智能玩具](/docs/arduino/智能玩具.md)|
+| [Arduino套件](/docs/arduino/Arduino套件.md)| [Arduino机器人](/docs/arduino/Arduino机器人.md)|
 |-------------------------------------------------------|---------------------------------------------|
 | | |
 
@@ -16,7 +16,7 @@
 ---
 # Micro:bit
 
-| [Microbit套件](/docs/microbit/Microbit套件.md)| [智能玩具](/docs/microbit/智能玩具.md)|
+| [Microbit套件](/docs/microbit/Microbit套件.md)| [Micro:bit机器人](/docs/microbit/Microbit机器人.md)|
 |-----------------------------------------------|-----------------------------------------------|
 | | |
 
@@ -29,7 +29,7 @@
 ---
 # 树莓派
 
-| [树莓派套件](/docs/raspberrypi/树莓派套件.md)| [智能玩具](/docs/raspberrypi/智能玩具.md)|
+| [树莓派套件](/docs/raspberrypi/树莓派套件.md)| [树莓派机器人](/docs/raspberrypi/树莓派机器人.md)|
 |--------------------------------------------------------|--------------------------------------------------------|
 | | |
 
@@ -41,7 +41,7 @@
 ---
 # 树莓派套件 pico
 
-| [pico套件](/docs/raspberrypi/pico套件.md)| [智能玩具](/docs/raspberrypi/pico智能玩具.md)|
+| [pico套件](/docs/raspberrypi/pico套件.md)| [pico智能玩具](/docs/raspberrypi/pico智能玩具.md)|
 |--------------------------------------------------------|----------------------------------------------|
 | | |
 
@@ -53,7 +53,7 @@
 ---
 # ESP32
 
-| [ESP32套件](/docs/esp32/esp32套件.md)| [智能玩具](/docs/esp32/智能玩具.md)|
+| [ESP32套件](/docs/esp32/esp32套件.md)| [ESP32机器人](/docs/esp32/ESP32机器人.md)|
 |-----------------------------------------|-----------------------------------------|
 | | |
 
