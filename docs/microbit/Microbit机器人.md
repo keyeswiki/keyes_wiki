@@ -1,4 +1,4 @@
-# Micro bit 智能玩具
+# Micro bit 机器人
 ---
 
 * [KE3030 Keyes micro bit 智能家居学习套件](https://www.keyesrobot.cn/projects/KE3030/en/latest/)
