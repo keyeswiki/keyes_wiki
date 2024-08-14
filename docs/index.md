@@ -40,7 +40,7 @@
 ---
 # 树莓派套件 pico
 
-| [pico套件](/docs/raspberrypi/pico套件.md)| [pico智能玩具](/docs/raspberrypi/pico智能玩具.md)|
+| [pico套件](/docs/raspberrypi/pico套件.md)| [pico机器人](/docs/raspberrypi/pico机器人.md)|
 |--------------------------------------------------------|----------------------------------------------|
 | | |
 
