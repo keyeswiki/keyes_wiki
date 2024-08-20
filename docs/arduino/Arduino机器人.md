@@ -5,7 +5,7 @@
 * [KE3044 Keyes DIY 电子自动浇水系统花卉自动灌溉套件](https://www.keyesrobot.cn/projects/KE3044/en/latest/)
 * [KE3045 Keyes Arduino青蛙机器人双足舞蹈步行](https://www.keyesrobot.cn/projects/KE3045/en/latest/)
 * [KE3046 keyes 平衡车套件](https://www.keyesrobot.cn/projects/KE3046/en/latest/)
-
+* [KE3052 Keyes套件 麦克纳姆轮小车 传感器套件](https://www.keyesrobot.cn/projects/KE3052/en/latest/)
 
 
 
