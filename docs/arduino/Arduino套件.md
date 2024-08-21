@@ -18,6 +18,8 @@
 * [KE3026 Keyes Arduino DIY电子积木 37合1 传感器套装](https://www.keyesrobot.cn/projects/KE3026/en/latest/)
 * [KE3028 Keyes Arduino DIY电子积木 24合1 传感器套装](https://www.keyesrobot.cn/projects/KE3028/en/latest/)
 
+* [KE3029 WPSE470霍尔水流量传感器+Plus主板+1602屏 套件](https://www.keyesrobot.cn/projects/KE3029/en/latest/)
+
 * [KE3071 keyes人体感应套件](https://www.keyesrobot.cn/projects/KE3071/en/latest/)
 * [KE3072 keyes 障碍物检测套件](https://www.keyesrobot.cn/projects/KE3072/en/latest/)
 * [KE3073 keyes 触摸检测套件](https://www.keyesrobot.cn/projects/KE3073/en/latest/)
