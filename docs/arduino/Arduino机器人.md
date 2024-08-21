@@ -2,6 +2,7 @@
 ---
 
 * [KE0165 Keyes套件 4WD 蓝牙 多功能智能小车](https://www.keyesrobot.cn/projects/KE0165/en/latest/)
+* [KE0170 Keyes 迷你履带坦克机器人套件](https://www.keyesrobot.cn/projects/KE0170/en/latest/)
 
 * [KE3066 Keyes Beetlebot Arduino 3合1 智能小车（含主板）](https://www.keyesrobot.cn/projects/KE3066/en/latest/)
 * [KE3044 Keyes DIY 电子自动浇水系统花卉自动灌溉套件](https://www.keyesrobot.cn/projects/KE3044/en/latest/)
