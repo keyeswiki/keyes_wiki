@@ -1,6 +1,7 @@
 # Arduino套件
 ---
 
+* [KE0080(KE0081)  Keyes 基础版 学习套件 for Arduino](https://www.keyesrobot.cn/projects/KE0080-KE0081/en/latest/)
 * [KE0084(KE0085)Keyes 终极版 学习套件 for Arduino](https://www.keyesrobot.cn/projects/KE0084-KE0085/en/latest/)
 * [KE0102 Arduino 24 in 1传感器套件 V2.0](https://www.keyesrobot.cn/projects/KE0102/en/latest/)
 
