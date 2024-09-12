@@ -5,7 +5,10 @@
 * [KE0082(KE0083)  Keyes 超级版学习套件  for Arduino](https://www.keyesrobot.cn/projects/KE0082-KE0083/en/latest/)
 * [KE0084(KE0085)Keyes 终极版 学习套件 for Arduino](https://www.keyesrobot.cn/projects/KE0084-KE0085/en/latest/)
 * [KE0086  Keyes 37合1 传感器套件 for Arduino](https://www.keyesrobot.cn/projects/KE0086/en/latest/)
+* [KE0087(KE0088)  Keyes 电子积木传感器套件 for Arduino](https://www.keyesrobot.cn/projects/KE0087-KE0088/en/latest/)
+
 * [KE0102 Arduino 24 in 1传感器套件 V2.0](https://www.keyesrobot.cn/projects/KE0102/en/latest/)
+
 
 * [KE3001 Keyes brick 24合一传感器套装 ARDUINO米思奇创客教育编程套装 防反插白色端子](https://www.keyesrobot.cn/projects/KE3001/en/latest/)
 * [KE3002 Keyes brick 37合一传感器套装 ARDUINO米思奇创客教育编程套装 防反插白色端子](https://www.keyesrobot.cn/projects/KE3002/en/latest/)
