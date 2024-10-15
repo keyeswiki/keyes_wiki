@@ -10,6 +10,7 @@
 * [KE0093  Arduino电子爱好者通用元件包套件503A](https://www.keyesrobot.cn/projects/KE0093/en/latest/)
 * [KE0094  Arduino电子爱好者通用元件包套件503B](https://www.keyesrobot.cn/projects/KE0094/en/latest/)
 * [KE0095  Arduino电子爱好者通用元件包套件503C](https://www.keyesrobot.cn/projects/KE0095/en/latest/)
+* [KE0096  Arduino电子爱好者通用元件包套件503D](https://www.keyesrobot.cn/projects/KE0096/en/latest/)
 
 * [KE0102 Arduino 24 in 1传感器套件 V2.0](https://www.keyesrobot.cn/projects/KE0102/en/latest/)
 
