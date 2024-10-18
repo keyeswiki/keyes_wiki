@@ -11,6 +11,13 @@
 * [KE0094  Arduino电子爱好者通用元件包套件503B](https://www.keyesrobot.cn/projects/KE0094/en/latest/)
 * [KE0095  Arduino电子爱好者通用元件包套件503C](https://www.keyesrobot.cn/projects/KE0095/en/latest/)
 * [KE0096  Arduino电子爱好者通用元件包套件503D](https://www.keyesrobot.cn/projects/KE0096/en/latest/)
+* [KE0097  Arduino电子迷基础元件包套件501A](https://www.keyesrobot.cn/projects/KE0097/en/latest/)
+* [KE0098  Arduino电子迷基础元件包套件501B](https://www.keyesrobot.cn/projects/KE0098/en/latest/)
+* [KE0099  Arduino电子迷基础元件包套件501C](https://www.keyesrobot.cn/projects/KE0099/en/latest/)
+* [KE0100  Arduino电子迷基础元件包套件501D](https://www.keyesrobot.cn/projects/KE0100/en/latest/)
+* [KE0101  KEYES Scratch 元件包套件](https://www.keyesrobot.cn/projects/KE0101/en/latest/)
+
+
 
 * [KE0102 Arduino 24 in 1传感器套件 V2.0](https://www.keyesrobot.cn/projects/KE0102/en/latest/)
 
