@@ -5,7 +5,7 @@
 
    README.md
    docs/arduino/Arduino
-   docs/indesp32ex/ESP32
+   docs/esp32/ESP32
    docs/microbit/Microbit
    docs/raspberrypi/树莓派
    docs/raspberrypi/pico
