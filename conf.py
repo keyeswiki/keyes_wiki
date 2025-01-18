@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '深圳市科易互动机器人有限公司'
-copyright = 'keyes , WiKi'
-author = 'keyes WiKi'
+project = '科易互动机器人'
+copyright = 'keyes,WiKi'
+author = 'keyes'
 copyright = 'Shenzhen KEYES DIY ROBOT co., Ltd.'
 
 # -- General configuration ---------------------------------------------------
