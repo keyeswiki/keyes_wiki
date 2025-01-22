@@ -248,11 +248,11 @@ Arduino套件
   <a href="https://www.keyesrobot.cn/projects/KE3012" target="_blank">KE3012 Keyes brick 42合一传感器套装</a>
 
 
-* |KE3013-KE3014 Keyes Arduino学习套件基础版|
+* |KE3013-KE3014-KE3089-KE3090-KE3091 Keyes Arduino学习套件基础版|
 
-.. |KE3013-KE3014 Keyes Arduino学习套件基础版| raw:: html
+.. |KE3013-KE3014-KE3089-KE3090-KE3091 Keyes Arduino学习套件基础版| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE3013-KE3014" target="_blank">KE3013-KE3014 Keyes Arduino学习套件基础版</a>
+  <a href="https://www.keyesrobot.cn/projects/KE3013-KE3014-KE3089-KE3090-KE3091" target="_blank">KE3013-KE3014-KE3089-KE3090-KE3091 Keyes Arduino学习套件基础版</a>
 
 
 * |KE3015-KE3016 Keyes 2021入门学习套件 进阶版|
