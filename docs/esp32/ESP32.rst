@@ -2,6 +2,28 @@
 ESP32
 =====
 
+esp32 模组
+==========
+
+* |62520093-62520094 2.8 inch ESP32-32E TFT显示模组|
+
+.. |62520093-62520094 2.8 inch ESP32-32E TFT显示模组| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/62520093-62520094" target="_blank">62520093-62520094 2.8 inch ESP32-32E TFT显示模组</a>
+
+* |62520095-62520096 3.2 inch ESP32-32E TFT显示模组|
+
+.. |62520095-62520096 3.2 inch ESP32-32E TFT显示模组| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/62520095-62520096" target="_blank">62520095-62520096 3.2 inch ESP32-32E TFT显示模组</a>
+
+* |62520097-62520098 3.5 inch ESP32-32E TFT显示模组|
+
+.. |62520097-62520098 3.5 inch ESP32-32E TFT显示模组| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/62520097-62520098" target="_blank">62520097-62520098 3.5 inch ESP32-32E TFT显示模组</a>
+
+
 
 esp32 套件
 ==========
