@@ -7,11 +7,13 @@ Arduino
 =============
 
 
-* |兼容Arduino主板|
+* |KE0001 Keyes UNO R3 开发板|
 
-.. |兼容Arduino主板| raw:: html
+.. |KE0001 Keyes UNO R3 开发板| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/" target="_blank">兼容Arduino主板</a>
+  <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0001%20keyes%20UNO%20R3%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0001 Keyes UNO R3 开发板</a>
+
+
 
 
 
