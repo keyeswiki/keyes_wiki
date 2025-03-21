@@ -9,4 +9,4 @@
    docs/microbit/Microbit
    docs/raspberrypi/树莓派
    docs/raspberrypi/pico
-   docs/sensor/sensro
+   docs/sensor/sensor
