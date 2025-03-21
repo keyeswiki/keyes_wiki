@@ -9,7 +9,7 @@ Arduino
 
 * |兼容Arduino主板|
 
-.. |兼容Arduino主板）| raw:: html
+.. |兼容Arduino主板| raw:: html
 
   <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/" target="_blank">兼容Arduino主板</a>
 
