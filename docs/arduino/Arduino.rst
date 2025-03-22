@@ -13,6 +13,42 @@ Arduino
 
   <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0001%20keyes%20UNO%20R3%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0001 Keyes UNO R3 开发板</a>
 
+* |KE0002 Keyes MEGA 2560 R3 开发板|
+
+.. |KE0002 Keyes MEGA 2560 R3 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0002%20keyes%20MEGA%202560%20R3.html#" target="_blank">KE0002 Keyes MEGA 2560 R3 开发板</a>
+
+* |KE0003 Keyes NANO V3.0 开发板|
+
+.. |KE0003 Keyes NANO V3.0 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0003%20keyes%20nano%20v3.0%20%E5%BC%80%E5%8F%91%E6%9D%BF.html#" target="_blank">KE0003 Keyes NANO V3.0 开发板</a>
+
+* |KE0004 Keyes Leonardo R3 开发板|
+
+.. |KE0004 Keyes Leonardo R3 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0004%20Keyes%20Leonardo%20R3%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0004 Keyes Leonardo R3 开发板</a>
+
+* |KE0005 Keyes Pro Mini 开发板|
+
+.. |KE0005 Keyes Pro Mini 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0005%20Keyes%20Pro%20Mini%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0005 Keyes Pro Mini 开发板</a>
+
+* |KE0171 Keyes Uno Plus 开发板|
+
+.. |KE0171 Keyes Uno Plus 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0171%20Keyes%20Uno%20Plus%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0171 Keyes Uno Plus 开发板</a>
+
+* |KE0175 Keyes STEM 电子积木编程教育开发板|
+
+.. |KE0175 Keyes STEM 电子积木编程教育开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0175%20Keyes%20STEM%20%E7%94%B5%E5%AD%90%E7%A7%AF%E6%9C%A8%E7%BC%96%E7%A8%8B%E6%95%99%E8%82%B2%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0175 Keyes STEM 电子积木编程教育开发板</a>
+
 
 
 
