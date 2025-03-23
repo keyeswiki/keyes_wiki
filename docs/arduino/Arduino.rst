@@ -53,6 +53,33 @@ Arduino
 兼容Arduino扩展板
 ===============
 
+* |KE0006 Keyes 原型扩展板|
+
+.. |KE0006 Keyes 原型扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0006%20Keyes%20%E5%8E%9F%E5%9E%8B%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE0006 Keyes 原型扩展板</a>
+
+
+
+
+
+
+
+
+
+
+
+
+KE0006 Keyes 原型扩展板
+KE0007 Keyes传感器扩展板
+KE0008 Keyes MEGA 2560 原型扩展板
+KE0009 Keyes MEGA 2560 传感器扩展板
+KE0010 Keyes SIM800C GPRS/GSM扩展板
+KE0104 keyes VNH5019双路电机驱动扩展板
+KE0156 KEYES W5500网络扩展板
+KE0163 Keyes Brick L298P 电机驱动扩展板 V1
+KE1001 Keyes Brick Shield v1.0 传感器扩展板
+KE1004 Keyes Brick Shield v2.0 传感器扩展板
 
 Arduino机器人
 =============
