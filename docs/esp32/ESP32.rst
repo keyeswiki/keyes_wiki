@@ -2,6 +2,14 @@
 ESP32
 =====
 
+esp32开发板
+==========
+
+
+esp32扩展板
+==========
+
+
 esp32 模组
 ==========
 
@@ -25,8 +33,8 @@ esp32 模组
 
 
 
-esp32 套件
-==========
+esp32 学习套装
+============
 
 
 * |KE3050 Keyes IOT ESP32 Smart Home Kit|
@@ -57,8 +65,6 @@ esp32 套件
   <a href="https://www.keyesrobot.cn/projects/KE3057" target="_blank">KE3057 Keyes ESP32 42合1 传感器套装</a>
 
 
-
-
 * |KE3067 Keyes ESP32 高级版学习套件|
 
 .. |KE3067 Keyes ESP32 高级版学习套件| raw:: html
@@ -78,12 +84,6 @@ esp32 套件
 .. |KE3069 Keyes ESP32 初级版学习套件| raw:: html
 
   <a href="https://www.keyesrobot.cn/projects/KE3069" target="_blank">KE3069 Keyes ESP32 初级版学习套件</a>
-
-
-
-
-
-
 
 
 
