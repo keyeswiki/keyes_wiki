@@ -50,7 +50,8 @@ Arduino
   <a href="https://www.keyesrobot.cn/projects/keyes-board/zh-cn/latest/KE0175%20Keyes%20STEM%20%E7%94%B5%E5%AD%90%E7%A7%AF%E6%9C%A8%E7%BC%96%E7%A8%8B%E6%95%99%E8%82%B2%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0175 Keyes STEM 电子积木编程教育开发板</a>
 
 
-
+兼容Arduino扩展板
+===============
 
 
 Arduino机器人
