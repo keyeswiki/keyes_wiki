@@ -59,6 +59,59 @@ Arduino
 
   <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0006%20Keyes%20%E5%8E%9F%E5%9E%8B%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE0006 Keyes 原型扩展板</a>
 
+* |KE0007 Keyes传感器扩展板|
+
+.. |KE0007 Keyes传感器扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0007%20Keyes%20%E4%BC%A0%E6%84%9F%E5%99%A8%E6%89%A9%E5%B1%95%E6%9D%BF.html" target="_blank">KE0007 Keyes传感器扩展板</a>
+
+* |KE0008 Keyes MEGA 2560 原型扩展板|
+
+.. |KE0008 Keyes MEGA 2560 原型扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0008%20Keyes%20MEGA%202560%20%E5%8E%9F%E5%9E%8B%E6%89%A9%E5%B1%95%E6%9D%BF.htm#" target="_blank">KE0008 Keyes MEGA 2560 原型扩展板</a>
+
+* |KE0009 Keyes MEGA 2560 传感器扩展板|
+
+.. |KE0009 Keyes MEGA 2560 传感器扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0009%20Keyes%20MEGA%202560%20%E4%BC%A0%E6%84%9F%E5%99%A8%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE0009 Keyes MEGA 2560 传感器扩展板</a>
+
+* |KE0010 Keyes SIM800C GPRS/GSM扩展板|
+
+.. |KE0010 Keyes SIM800C GPRS/GSM扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0010%20Keyes%20SIM800C%20GPRS%20GSM%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE0010 Keyes SIM800C GPRS/GSM扩展板</a>
+
+* |KE0104 keyes VNH5019双路电机驱动扩展板|
+
+.. |KE0104 keyes VNH5019双路电机驱动扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0104%20Keyes%20VNH5019%E5%8F%8C%E8%B7%AF%E7%94%B5%E6%9C%BA%E9%A9%B1%E5%8A%A8%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE0104 keyes VNH5019双路电机驱动扩展板</a>
+
+* |KE0156 KEYES W5500网络扩展板|
+
+.. |KE0156 KEYES W5500网络扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0156%20Keyes%20W5500%E7%BD%91%E7%BB%9C%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE0156 KEYES W5500网络扩展板</a>
+
+* |KE0163 Keyes Brick L298P 电机驱动扩展板 V1|
+
+.. |KE0163 Keyes Brick L298P 电机驱动扩展板 V1| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0163%20Keyes%20Brick%20L298P%20%E7%94%B5%E6%9C%BA%E9%A9%B1%E5%8A%A8%E6%89%A9%E5%B1%95%E6%9D%BF%20V1.html#" target="_blank">KE0163 Keyes Brick L298P 电机驱动扩展板 V1</a>
+
+* |KE1001 Keyes Brick Shield v1.0 传感器扩展板|
+
+.. |KE1001 Keyes Brick Shield v1.0 传感器扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE1001%20Keyes%20Brick%20Shield%20v1.0%20%E4%BC%A0%E6%84%9F%E5%99%A8%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE1001 Keyes Brick Shield v1.0 传感器扩展板</a>
+
+* |KE1004 Keyes Brick Shield v2.0 传感器扩展板|
+
+.. |KE1004 Keyes Brick Shield v2.0 传感器扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE1004%20Keyes%20Brick%20Shield%20v2.0%20%E4%BC%A0%E6%84%9F%E5%99%A8%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE1004 Keyes Brick Shield v2.0 传感器扩展板</a>
 
 Arduino机器人
 =============
