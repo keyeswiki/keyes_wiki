@@ -69,7 +69,7 @@ Arduino
 
 .. |KE0008 Keyes MEGA 2560 原型扩展板| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0008%20Keyes%20MEGA%202560%20%E5%8E%9F%E5%9E%8B%E6%89%A9%E5%B1%95%E6%9D%BF.htm#" target="_blank">KE0008 Keyes MEGA 2560 原型扩展板</a>
+  <a href="https://www.keyesrobot.cn/projects/keyes-shield/zh-cn/latest/KE0008%20Keyes%20MEGA%202560%20%E5%8E%9F%E5%9E%8B%E6%89%A9%E5%B1%95%E6%9D%BF.html#" target="_blank">KE0008 Keyes MEGA 2560 原型扩展板</a>
 
 * |KE0009 Keyes MEGA 2560 传感器扩展板|
 
