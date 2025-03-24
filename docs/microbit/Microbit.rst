@@ -47,11 +47,11 @@ Micro bit 扩展板
 
   <a href="https://www.keyesrobot.cn/projects/Microbit-Shield/zh-cn/latest/KE0139%20Keyes%20micro_bit%20%E4%BC%A0%E6%84%9F%E5%99%A8V2%E6%89%A9%E5%B1%95%E6%9D%BF.html" target="_blank">KE0139 Keyes micro:bit 传感器V2扩展板 (红色环保)</a>
 
-* |https://www.keyesrobot.cn/projects/Microbit-Shield/zh-cn/latest/KE0139%20Keyes%20micro_bit%20%E4%BC%A0%E6%84%9F%E5%99%A8V2%E6%89%A9%E5%B1%95%E6%9D%BF.html|
+* |KE0140 Keyes micro:bit 摇杆扩展板 (红色环保)|
 
-.. |https://www.keyesrobot.cn/projects/Microbit-Shield/zh-cn/latest/KE0139%20Keyes%20micro_bit%20%E4%BC%A0%E6%84%9F%E5%99%A8V2%E6%89%A9%E5%B1%95%E6%9D%BF.html| raw:: html
+.. |KE0140 Keyes micro:bit 摇杆扩展板 (红色环保)| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/Microbit-Shield/zh-cn/latest/KE0140%20Keyes%20micro_bit%20%E6%91%87%E6%9D%86%E6%89%A9%E5%B1%95%E6%9D%BF.html" target="_blank">https://www.keyesrobot.cn/projects/Microbit-Shield/zh-cn/latest/KE0139%20Keyes%20micro_bit%20%E4%BC%A0%E6%84%9F%E5%99%A8V2%E6%89%A9%E5%B1%95%E6%9D%BF.html</a>
+  <a href="https://www.keyesrobot.cn/projects/Microbit-Shield/zh-cn/latest/KE0140%20Keyes%20micro_bit%20%E6%91%87%E6%9D%86%E6%89%A9%E5%B1%95%E6%9D%BF.html" target="_blank">KE0140 Keyes micro:bit 摇杆扩展板 (红色环保)</a>
 
 * |KE0141 Keyes micro:bit Breakout 扩展板 (红色环保)|
 
