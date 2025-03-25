@@ -5,6 +5,18 @@ ESP32
 esp32开发板
 ==========
 
+* |KE0162 Keyes ESP32 Core Board 红色 环保|
+
+.. |KE0162 Keyes ESP32 Core Board 红色 环保| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0162%20Keyes%20ESP32%20Core%20Board.html" target="_blank">KE0162 Keyes ESP32 Core Board 红色 环保</a>
+
+* |KE0173 Keyes ESP8266 WiFi 开发板综合指南|
+
+.. |KE0173 Keyes ESP8266 WiFi 开发板综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0173%20Keyes%20ESP8266%20WiFi%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0173 Keyes ESP8266 WiFi 开发板综合指南</a>
+
 
 esp32扩展板
 ==========
@@ -15,23 +27,12 @@ esp32扩展板
 
   <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0153%20Keyes%20ESP32-IO%E6%89%A9%E5%B1%95%E6%9D%BF.html" target="_blank">KE0153 KEYES ESP32-IO扩展板</a>
 
-* |KE0162 Keyes ESP32 Core Board 红色 环保|
-
-.. |KE0162 Keyes ESP32 Core Board 红色 环保| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0162%20Keyes%20ESP32%20Core%20Board.html" target="_blank">KE0162 Keyes ESP32 Core Board 红色 环保</a>
-
 * |KE0168 Keyes USB转ESP-01S WIFI模块串口测试扩展板|
 
 .. |KE0168 Keyes USB转ESP-01S WIFI模块串口测试扩展板| raw:: html
 
   <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0168%20Keyes%20USB%E8%BD%ACESP-01S%20WIFI%E6%A8%A1%E5%9D%97%E4%B8%B2%E5%8F%A3%E6%B5%8B%E8%AF%95%E6%89%A9%E5%B1%95%E6%9D%BF.html" target="_blank">KE0168 Keyes USB转ESP-01S WIFI模块串口测试扩展板</a>
 
-* |KE0173 Keyes ESP8266 WiFi 开发板综合指南|
-
-.. |KE0173 Keyes ESP8266 WiFi 开发板综合指南| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0173%20Keyes%20ESP8266%20WiFi%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0173 Keyes ESP8266 WiFi 开发板综合指南</a>
 
 esp32 模组
 ==========
