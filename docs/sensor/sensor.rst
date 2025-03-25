@@ -5,13 +5,6 @@
 通用传感器和模块
 =============
 
-* |KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）|
-
-.. |KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KE4082" target="_blank">KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）</a>
-
-
 * |KE0011 Keyes 草帽LED白发红模块详细教程|
 
 .. |KE0011 Keyes 草帽LED白发红模块详细教程| raw:: html
@@ -623,6 +616,13 @@
 .. |KE0178 Keyes TM1637 4位数码管模块综合指南| raw:: html
 
   <a href="https://www.keyesrobot.cn/projects/commonsensor/zh-cn/latest/KE0178%20Keyes%20TM1637%204%E4%BD%8D%E6%95%B0%E7%A0%81%E7%AE%A1%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE0178 Keyes TM1637 4位数码管模块综合指南</a> 
+
+* |KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）|
+
+.. |KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4082" target="_blank">KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）</a>
+
 
 
 
