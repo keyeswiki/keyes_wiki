@@ -633,6 +633,460 @@
 brick系列传感器和模块
 ==================
 
+* |KE2001 Keyes Brick LED 红发红模块综合指南|
+
+.. |KE2001 Keyes Brick LED 红发红模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2001%20Keyes%20Brick%20LED%20%E7%BA%A2%E5%8F%91%E7%BA%A2%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2001 Keyes Brick LED 红发红模块综合指南</a> 
+
+* |KE2002 Keyes Brick LED 绿发绿模块综合指南|
+
+.. |KE2002 Keyes Brick LED 绿发绿模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2002%20Keyes%20Brick%20LED%20%E7%BB%BF%E5%8F%91%E7%BB%BF%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2002 Keyes Brick LED 绿发绿模块综合指南</a> 
+
+* |KE2003 Keyes Brick LED 蓝发蓝模块综合指南|
+
+.. |KE2003 Keyes Brick LED 蓝发蓝模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2003%20Keyes%20Brick%20LED%20%E8%93%9D%E5%8F%91%E8%93%9D%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2003 Keyes Brick LED 蓝发蓝模块综合指南</a> 
+
+* |KE2004 Keyes Brick LED 黄发黄模块综合指南|
+
+.. |KE2004 Keyes Brick LED 黄发黄模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2004%20Keyes%20Brick%20LED%20%E9%BB%84%E5%8F%91%E9%BB%84%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2004 Keyes Brick LED 黄发黄模块综合指南</a> 
+
+
+* |KE2005 Keyes Brick LED 白发白模块综合指南|
+
+.. |KE2005 Keyes Brick LED 白发白模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2005%20Keyes%20Brick%20LED%20%E7%99%BD%E5%8F%91%E7%99%BD%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2005 Keyes Brick LED 白发白模块综合指南</a> 
+
+
+* |KE2006 Keyes Brick 有源蜂鸣器模块综合指南|
+
+.. |KE2006 Keyes Brick 有源蜂鸣器模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2006%20Keyes%20Brick%20%E6%9C%89%E6%BA%90%E8%9C%82%E9%B8%A3%E5%99%A8%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2006 Keyes Brick 有源蜂鸣器模块综合指南</a> 
+
+* |KE2007 Keyes Brick 无源蜂鸣器模块综合指南|
+
+.. |KE2007 Keyes Brick 无源蜂鸣器模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2007%20Keyes%20Brick%20%E6%97%A0%E6%BA%90%E8%9C%82%E9%B8%A3%E5%99%A8%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2007 Keyes Brick 无源蜂鸣器模块综合指南</a> 
+
+* |KE2008 Keyes Brick 热敏电阻传感器综合指南|
+
+.. |KE2008 Keyes Brick 热敏电阻传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2008%20Keyes%20Brick%20%E7%83%AD%E6%95%8F%E7%94%B5%E9%98%BB%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2008 Keyes Brick 热敏电阻传感器综合指南</a> 
+
+* |KE2009 Keyes Brick 光敏电阻传感器综合指南|
+
+.. |KE2009 Keyes Brick 光敏电阻传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2009%20Keyes%20Brick%20%E5%85%89%E6%95%8F%E7%94%B5%E9%98%BB%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2009 Keyes Brick 光敏电阻传感器综合指南</a> 
+
+
+* |KE2010 Keyes Brick 敲击模块传感器综合指南|
+
+.. |KE2010 Keyes Brick 敲击模块传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2010%20Keyes%20Brick%20%E6%95%B2%E5%87%BB%E6%A8%A1%E5%9D%97%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2010 Keyes Brick 敲击模块传感器综合指南</a> 
+
+* |KE2011 Keyes Brick 倾斜模块传感器综合指南|
+
+.. |KE2011 Keyes Brick 倾斜模块传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2011%20Keyes%20Brick%20%E5%80%BE%E6%96%9C%E6%A8%A1%E5%9D%97%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2011 Keyes Brick 倾斜模块传感器综合指南</a> 
+
+* |KE2012 Keyes Brick 震动模块传感器综合指南|
+
+.. |KE2012 Keyes Brick 震动模块传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2012%20Keyes%20Brick%20%E9%9C%87%E5%8A%A8%E6%A8%A1%E5%9D%97%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2012 Keyes Brick 震动模块传感器综合指南</a> 
+
+* |KE2013 Keyes Brick 干簧管传感器综合指南|
+
+.. |KE2013 Keyes Brick 干簧管传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2013%20Keyes%20Brick%20%E5%B9%B2%E7%B0%A7%E7%AE%A1%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2013 Keyes Brick 干簧管传感器综合指南</a> 
+
+* |KE2014 Keyes Brick 3W LED模块综合指南|
+
+.. |KE2014 Keyes Brick 3W LED模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2014%20Keyes%20Brick%203W%20LED%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2014 Keyes Brick 3W LED模块综合指南</a> 
+
+* |KE2015 Keyes Brick 双色LED模块综合指南|
+
+.. |KE2015 Keyes Brick 双色LED模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2015%20Keyes%20Brick%20%E5%8F%8C%E8%89%B2LED%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2015 Keyes Brick 双色LED模块综合指南</a> 
+
+* |KE2016 Keyes Brick 贴片RGB模块综合指南|
+
+.. |KE2016 Keyes Brick 贴片RGB模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2016%20Keyes%20Brick%20%E8%B4%B4%E7%89%87RGB%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2016 Keyes Brick 贴片RGB模块综合指南</a> 
+
+* |KE2017 Keyes Brick 插件RGB模块综合指南|
+
+.. |KE2017 Keyes Brick 插件RGB模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2017%20Keyes%20Brick%20%E6%8F%92%E4%BB%B6RGB%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2017 Keyes Brick 插件RGB模块综合指南</a> 
+
+* |KE2018 Keyes Brick 7彩自动闪烁模块综合指南|
+
+.. |KE2018 Keyes Brick 7彩自动闪烁模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2018%20Keyes%20Brick%207%E5%BD%A9%E8%87%AA%E5%8A%A8%E9%97%AA%E7%83%81%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2018 Keyes Brick 7彩自动闪烁模块综合指南</a> 
+
+* |KE2019 Keyes Brick 麦克风声音传感器综合指南|
+
+.. |KE2019 Keyes Brick 麦克风声音传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2019%20Keyes%20Brick%20%E9%BA%A6%E5%85%8B%E9%A3%8E%E5%A3%B0%E9%9F%B3%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2019 Keyes Brick 麦克风声音传感器综合指南</a> 
+
+* |KE2020 Keyes Brick 水滴水蒸气传感器综合指南|
+
+.. |KE2020 Keyes Brick 水滴水蒸气传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2020%20Keyes%20Brick%20%E6%B0%B4%E6%BB%B4%E6%B0%B4%E8%92%B8%E6%B0%94%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2020 Keyes Brick 水滴水蒸气传感器综合指南</a> 
+
+
+* |KE2021 Keyes Brick 可调电位器模块综合指南|
+
+.. |KE2021 Keyes Brick 可调电位器模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2021%20Keyes%20Brick%20%E5%8F%AF%E8%B0%83%E7%94%B5%E4%BD%8D%E5%99%A8%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2021 Keyes Brick 可调电位器模块综合指南</a> 
+
+* |KE2022 Keyes Brick 水位传感器综合指南|
+
+.. |KE2022 Keyes Brick 水位传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2022%20Keyes%20Brick%20%E6%B0%B4%E4%BD%8D%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2022 Keyes Brick 水位传感器综合指南</a> 
+
+* |KE2023 Keyes Brick 土壤传感器综合指南|
+
+.. |KE2023 Keyes Brick 土壤传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2023%20Keyes%20Brick%20%E5%9C%9F%E5%A3%A4%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2023 Keyes Brick 土壤传感器综合指南</a> 
+
+* |KE2024 Keyes Brick LM35温度传感器综合指南|
+
+.. |KE2024 Keyes Brick LM35温度传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2024%20Keyes%20Brick%20LM35%E6%B8%A9%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2024 Keyes Brick LM35温度传感器综合指南</a> 
+
+* |KE2025 Keyes Brick 18B20温度传感器综合指南|
+
+.. |KE2025 Keyes Brick 18B20温度传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2025%20Keyes%20Brick%2018B20%E6%B8%A9%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2025 Keyes Brick 18B20温度传感器综合指南</a> 
+
+* |KE2026 Keyes Brick DHT11温湿度传感器综合指南|
+
+.. |KE2026 Keyes Brick DHT11温湿度传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2026%20Keyes%20Brick%20DHT11%E6%B8%A9%E6%B9%BF%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2026 Keyes Brick DHT11温湿度传感器综合指南</a> 
+
+
+* |KE2027 Keyes Brick 避障传感器综合指南|
+
+.. |KE2027 Keyes Brick 避障传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2027%20Keyes%20Brick%20%E9%81%BF%E9%9A%9C%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2027 Keyes Brick 避障传感器综合指南</a> 
+
+* |KE2028 Keyes Brick 霍尔传感器综合指南|
+
+.. |KE2028 Keyes Brick 霍尔传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2028%20Keyes%20Brick%20%E9%9C%8D%E5%B0%94%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2028 Keyes Brick 霍尔传感器综合指南</a> 
+
+* |KE2029 Keyes Brick 碰撞传感器综合指南|
+
+.. |KE2029 Keyes Brick 碰撞传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2029%20Keyes%20Brick%20%E7%A2%B0%E6%92%9E%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2029 Keyes Brick 碰撞传感器综合指南</a> 
+
+* |KE2030 Keyes Brick 火焰传感器综合指南|
+
+.. |KE2030 Keyes Brick 火焰传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2030%20Keyes%20Brick%20%E7%81%AB%E7%84%B0%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2030 Keyes Brick 火焰传感器综合指南</a> 
+
+* |KE2031 Keyes Brick 按键传感器综合指南|
+
+.. |KE2031 Keyes Brick 按键传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2031%20Keyes%20Brick%20%E6%8C%89%E9%94%AE%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2031 Keyes Brick 按键传感器综合指南</a> 
+
+* |KE2032 Keyes Brick 电容触摸传感器综合指南|
+
+.. |KE2032 Keyes Brick 电容触摸传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2032%20Keyes%20Brick%20%E7%94%B5%E5%AE%B9%E8%A7%A6%E6%91%B8%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2032 Keyes Brick 电容触摸传感器综合指南</a> 
+
+* |KE2033 Keyes Brick 红外接收传感器综合指南|
+
+.. |KE2033 Keyes Brick 红外接收传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2033%20Keyes%20Brick%20%E7%BA%A2%E5%A4%96%E6%8E%A5%E6%94%B6%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2033 Keyes Brick 红外接收传感器综合指南</a> 
+
+* |KE2034 Keyes Brick 红外发射传感器综合指南|
+
+.. |KE2034 Keyes Brick 红外发射传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2034%20Keyes%20Brick%20%E7%BA%A2%E5%A4%96%E5%8F%91%E5%B0%84%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2034 Keyes Brick 红外发射传感器综合指南</a> 
+
+* |KE2035 Keyes Brick 1302时钟传感器综合指南|
+
+.. |KE2035 Keyes Brick 1302时钟传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2035%20Keyes%20Brick%201302%E6%97%B6%E9%92%9F%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2035 Keyes Brick 1302时钟传感器综合指南</a> 
+
+* |KE2036 Keyes Brick 摇杆模块传感器综合指南|
+
+.. |KE2036 Keyes Brick 摇杆模块传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2036%20Keyes%20Brick%20%E6%91%87%E6%9D%86%E6%A8%A1%E5%9D%97%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2036 Keyes Brick 摇杆模块传感器综合指南</a> 
+
+* |KE2037 Keyes Brick 5V 单路继电器模块综合指南|
+
+.. |KE2037 Keyes Brick 5V 单路继电器模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2037%20Keyes%20Brick%205V%20%E5%8D%95%E8%B7%AF%E7%BB%A7%E7%94%B5%E5%99%A8%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2037 Keyes Brick 5V 单路继电器模块综合指南</a> 
+
+* |KE2038 Keyes Brick 旋转编码器模块综合指南|
+
+.. |KE2038 Keyes Brick 旋转编码器模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2038%20Keyes%20Brick%20%E6%97%8B%E8%BD%AC%E7%BC%96%E7%A0%81%E5%99%A8%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2038 Keyes Brick 旋转编码器模块综合指南</a> 
+
+* |KE2039 Keyes Brick 人体红外热释电传感器综合指南|
+
+.. |KE2039 Keyes Brick 人体红外热释电传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2039%20Keyes%20Brick%20%E4%BA%BA%E4%BD%93%E7%BA%A2%E5%A4%96%E7%83%AD%E9%87%8A%E7%94%B5%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2039 Keyes Brick 人体红外热释电传感器综合指南</a> 
+
+
+
+* |KE2040 Keyes Brick ADXL345 加速度传感器综合指南|
+
+.. |KE2040 Keyes Brick ADXL345 加速度传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2040%20Keyes%20Brick%20ADXL345%20%E5%8A%A0%E9%80%9F%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2040 Keyes Brick ADXL345 加速度传感器综合指南</a> 
+
+* |KE2041 Keyes Brick HC-SR04超声波传感器综合指南|
+
+.. |KE2041 Keyes Brick HC-SR04超声波传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2041%20Keyes%20Brick%20HC-SR04%E8%B6%85%E5%A3%B0%E6%B3%A2%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2041 Keyes Brick HC-SR04超声波传感器综合指南</a> 
+
+* |KE2042 Keyes Brick MQ-2烟雾传感器综合指南|
+
+.. |KE2042 Keyes Brick MQ-2烟雾传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2042%20Keyes%20Brick%20MQ-2%E7%83%9F%E9%9B%BE%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2042 Keyes Brick MQ-2烟雾传感器综合指南</a> 
+
+* |KE2043 Keyes Brick MQ-3酒精传感器综合指南|
+
+.. |KE2043 Keyes Brick MQ-3酒精传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2043%20Keyes%20Brick%20MQ-3%E9%85%92%E7%B2%BE%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2043 Keyes Brick MQ-3酒精传感器综合指南</a> 
+
+* |KE2044 Keyes Brick MQ-135空气质量传感器综合指南|
+
+.. |KE2044 Keyes Brick MQ-135空气质量传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2044%20Keyes%20Brick%20MQ-135%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2044 Keyes Brick MQ-135空气质量传感器综合指南</a> 
+
+* |KE2045 Keyes Brick TEMT6000光线传感器综合指南|
+
+.. |KE2045 Keyes Brick TEMT6000光线传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2045%20Keyes%20Brick%20TEMT6000%E5%85%89%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2045 Keyes Brick TEMT6000光线传感器综合指南</a> 
+
+* |KE2046 Keyes Brick SHT10传感器综合指南|
+
+.. |KE2046 Keyes Brick SHT10传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2046%20Keyes%20Brick%20SHT10%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2046 Keyes Brick SHT10传感器综合指南</a> 
+
+* |KE2048 Keyes Brick 光折断传感器综合指南|
+
+.. |KE2048 Keyes Brick 光折断传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2048%20Keyes%20Brick%20%E5%85%89%E6%8A%98%E6%96%AD%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2048 Keyes Brick 光折断传感器综合指南</a> 
+
+* |KE2049 Keyes Brick 魔术光杯传感器综合指南|
+
+.. |KE2049 Keyes Brick 魔术光杯传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2049%20Keyes%20Brick%20%E9%AD%94%E6%9C%AF%E5%85%89%E6%9D%AF%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2049 Keyes Brick 魔术光杯传感器综合指南</a> 
+
+* |KE2050 Keyes Brick 3231时钟模块综合指南|
+
+.. |KE2050 Keyes Brick 3231时钟模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2050%20Keyes%20Brick%203231%E6%97%B6%E9%92%9F%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2050 Keyes Brick 3231时钟模块综合指南</a> 
+
+* |KE2051 Keyes Brick 手指测心跳模块综合指南|
+
+.. |KE2051 Keyes Brick 手指测心跳模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2051%20Keyes%20Brick%20%E6%89%8B%E6%8C%87%E6%B5%8B%E5%BF%83%E8%B7%B3%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2051 Keyes Brick 手指测心跳模块综合指南</a> 
+
+
+
+* |KE2052 Keyes Brick IIC 1602 蓝屏（5V）综合指南|
+
+.. |KE2052 Keyes Brick IIC 1602 蓝屏（5V）综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2052%20Keyes%20Brick%20IIC%201602%20%E8%93%9D%E5%B1%8F%EF%BC%885V%EF%BC%89%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2052 Keyes Brick IIC 1602 蓝屏（5V）综合指南</a> 
+
+* |KE2053 Keyes Brick GUVA-S12SD 3528 紫外线传感器综合指南|
+
+.. |KE2053 Keyes Brick GUVA-S12SD 3528 紫外线传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2053%20Keyes%20Brick%20GUVA-S12SD%203528%20%E7%B4%AB%E5%A4%96%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2053 Keyes Brick GUVA-S12SD 3528 紫外线传感器综合指南</a> 
+
+* |KE2054 Keyes Brick 激光头传感器模块综合指南|
+
+.. |KE2054 Keyes Brick 激光头传感器模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2054%20Keyes%20Brick%20%E6%BF%80%E5%85%89%E5%A4%B4%E4%BC%A0%E6%84%9F%E5%99%A8%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2054 Keyes Brick 激光头传感器模块综合指南</a> 
+
+* |KE2055 Keyes Brick 薄膜压力传感器综合指南|
+
+.. |KE2055 Keyes Brick 薄膜压力传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2055%20Keyes%20Brick%20%E8%96%84%E8%86%9C%E5%8E%8B%E5%8A%9B%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2055 Keyes Brick 薄膜压力传感器综合指南</a> 
+
+* |KE2056 Keyes Brick 红绿灯模块综合指南|
+
+.. |KE2056 Keyes Brick 红绿灯模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2056%20Keyes%20Brick%20%E7%BA%A2%E7%BB%BF%E7%81%AF%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2056 Keyes Brick 红绿灯模块综合指南</a> 
+
+* |KE2057 Keyes Brick I2C四位数码管模块综合指南|
+
+.. |KE2057 Keyes Brick I2C四位数码管模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2057%20Keyes%20Brick%20I2C%E5%9B%9B%E4%BD%8D%E6%95%B0%E7%A0%81%E7%AE%A1%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2057 Keyes Brick I2C四位数码管模块综合指南</a> 
+
+* |KE2058 Keyes Brick 8x8点阵模块综合指南|
+
+.. |KE2058 Keyes Brick 8x8点阵模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2058%20Keyes%20Brick%208x8%E7%82%B9%E9%98%B5%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2058 Keyes Brick 8x8点阵模块综合指南</a> 
+
+* |KE2059 Keyes Brick MMA8452Q三轴数字加速度传感器综合指南|
+
+.. |KE2059 Keyes Brick MMA8452Q三轴数字加速度传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2059%20Keyes%20Brick%20MMA8452Q%E4%B8%89%E8%BD%B4%E6%95%B0%E5%AD%97%E5%8A%A0%E9%80%9F%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2059 Keyes Brick MMA8452Q三轴数字加速度传感器综合指南</a> 
+
+* |KE2060 Keyes Brick Voltage Sensor电压检测传感器综合指南|
+
+.. |KE2060 Keyes Brick Voltage Sensor电压检测传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2060%20Keyes%20Brick%20Voltage%20Sensor%E7%94%B5%E5%8E%8B%E6%A3%80%E6%B5%8B%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2060 Keyes Brick Voltage Sensor电压检测传感器综合指南</a> 
+
+* |KE2061 Keyes Brick 模拟压电陶瓷震动传感器综合指南|
+
+.. |KE2061 Keyes Brick 模拟压电陶瓷震动传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2061%20Keyes%20Brick%20%E6%A8%A1%E6%8B%9F%E5%8E%8B%E7%94%B5%E9%99%B6%E7%93%B7%E9%9C%87%E5%8A%A8%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2061 Keyes Brick 模拟压电陶瓷震动传感器综合指南</a> 
+
+* |KE2062 Keyes Brick TM1637 4位数码管模块综合指南|
+
+.. |KE2062 Keyes Brick TM1637 4位数码管模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2062%20Keyes%20Brick%20TM1637%204%E4%BD%8D%E6%95%B0%E7%A0%81%E7%AE%A1%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2062 Keyes Brick TM1637 4位数码管模块综合指南</a> 
+
+* |KE2063 Keyes Brick NEO-7M U-BLOX GPS模块综合指南|
+
+.. |KE2063 Keyes Brick NEO-7M U-BLOX GPS模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2063%20Keyes%20Brick%20NEO-7M%20U-BLOX%20GPS%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2063 Keyes Brick NEO-7M U-BLOX GPS模块综合指南</a> 
+
+* |KE2064 Keyes Brick ESP-01 3V继电器模块综合指南|
+
+.. |KE2064 Keyes Brick ESP-01 3V继电器模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2064%20Keyes%20Brick%20ESP-01%203V%E7%BB%A7%E7%94%B5%E5%99%A8%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2064 Keyes Brick ESP-01 3V继电器模块综合指南</a> 
+
+* |KE2065 Keyes Brick ESP-01 DHT11温湿度模块综合指南|
+
+.. |KE2065 Keyes Brick ESP-01 DHT11温湿度模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2065%20Keyes%20Brick%20ESP-01%20DHT11%E6%B8%A9%E6%B9%BF%E5%BA%A6%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2065 Keyes Brick ESP-01 DHT11温湿度模块综合指南</a> 
+
+* |KE2066 Keyes Brick ESP-01 DS18B20温度模块综合指南|
+
+.. |KE2066 Keyes Brick ESP-01 DS18B20温度模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2066%20Keyes%20Brick%20ESP-01%20DS18B20%E6%B8%A9%E5%BA%A6%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2066 Keyes Brick ESP-01 DS18B20温度模块综合指南</a> 
+
+* |KE2067 Keyes Brick PAM8610 数字功放模块综合指南|
+
+.. |KE2067 Keyes Brick PAM8610 数字功放模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2067%20Keyes%20Brick%20PAM8610%20%E6%95%B0%E5%AD%97%E5%8A%9F%E6%94%BE%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2067 Keyes Brick PAM8610 数字功放模块综合指南</a> 
+
+* |KE2068 Keyes Brick TCS34725 颜色传感器综合指南|
+
+.. |KE2068 Keyes Brick TCS34725 颜色传感器综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2068%20Keyes%20Brick%20TCS34725%20%E9%A2%9C%E8%89%B2%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2068 Keyes Brick TCS34725 颜色传感器综合指南</a> 
+
+
+
+* |KE2069 Keyes Brick ZYE1-P20/15 电磁铁模块综合指南|
+
+.. |KE2069 Keyes Brick ZYE1-P20/15 电磁铁模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2069%20Keyes%20Brick%20ZYE1-P20_15%20%E7%94%B5%E7%A3%81%E9%93%81%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2069 Keyes Brick ZYE1-P20/15 电磁铁模块综合指南</a> 
+
+* |KE2070 Keyes Brick 三路巡线模块综合指南|
+
+.. |KE2070 Keyes Brick 三路巡线模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2070%20Keyes%20Brick%20%E4%B8%89%E8%B7%AF%E5%B7%A1%E7%BA%BF%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2070 Keyes Brick 三路巡线模块综合指南</a> 
+
+* |KE2071 Keyes Brick 振动马达模块综合指南|
+
+.. |KE2071 Keyes Brick 振动马达模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2071%20Keyes%20Brick%20%E6%8C%AF%E5%8A%A8%E9%A9%AC%E8%BE%BE%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2071 Keyes Brick 振动马达模块综合指南</a> 
+
+* |KE2072 Keyes Brick 功放模块（8002B芯片）综合指南|
+
+.. |KE2072 Keyes Brick 功放模块（8002B芯片）综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2072%20Keyes%20Brick%20%E5%8A%9F%E6%94%BE%E6%A8%A1%E5%9D%97%EF%BC%888002B%E8%8A%AF%E7%89%87%EF%BC%89%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2072 Keyes Brick 功放模块（8002B芯片）综合指南</a> 
+
+* |KE2073 Keyes 130电机-DC3-5V浇花小水泵驱动模块综合指南|
+
+.. |KE2073 Keyes 130电机-DC3-5V浇花小水泵驱动模块综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2073%20Keyes%20130%E7%94%B5%E6%9C%BA-DC3-5V%E6%B5%87%E8%8A%B1%E5%B0%8F%E6%B0%B4%E6%B3%B5%E9%A9%B1%E5%8A%A8%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2073 Keyes 130电机-DC3-5V浇花小水泵驱动模块综合指南</a> 
+
+* |KE2074 Keyes Brick 0.96寸高亮高清晰 IIC通信 OLED显示屏综合指南|
+
+.. |KE2074 Keyes Brick 0.96寸高亮高清晰 IIC通信 OLED显示屏综合指南| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2074%20Keyes%20Brick%200.96%E5%AF%B8%E9%AB%98%E4%BA%AE%E9%AB%98%E6%B8%85%E6%99%B0%20IIC%E9%80%9A%E4%BF%A1%20OLED%E6%98%BE%E7%A4%BA%E5%B1%8F%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2074 Keyes Brick 0.96寸高亮高清晰 IIC通信 OLED显示屏综合指南</a> 
+
+
+
+
+
+
 
 
 
