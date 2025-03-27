@@ -5,18 +5,24 @@ ESP32
 esp32开发板
 ==========
 
-* |KE0162 Keyes ESP32 Core Board 红色 环保|
+* |KE0162 Keyes ESP32 Core 开发板|
 
-.. |KE0162 Keyes ESP32 Core Board 红色 环保| raw:: html
+.. |KE0162 Keyes ESP32 Core 开发板| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0162%20Keyes%20ESP32%20Core%20Board.html" target="_blank">KE0162 Keyes ESP32 Core Board 红色 环保</a>
+  <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0162%20Keyes%20ESP32%20Core%20Board.html" target="_blank">KE0162 Keyes ESP32 Core 开发板</a>
 
-* |KE0173 Keyes ESP8266 WiFi 开发板综合指南|
+* |KE0173 Keyes ESP8266 WiFi 开发板|
 
-.. |KE0173 Keyes ESP8266 WiFi 开发板综合指南| raw:: html
+.. |KE0173 Keyes ESP8266 WiFi 开发板| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0173%20Keyes%20ESP8266%20WiFi%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0173 Keyes ESP8266 WiFi 开发板综合指南</a>
+  <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0173%20Keyes%20ESP8266%20WiFi%20%E5%BC%80%E5%8F%91%E6%9D%BF.html" target="_blank">KE0173 Keyes ESP8266 WiFi 开发板</a>
 
+
+* |ESP32-S3-DevKitC-1 开发板|
+
+.. |ESP32-S3-DevKitC-1 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/ESP32-S3/zh-cn/latest/" target="_blank">ESP32-S3-DevKitC-1 开发板</a>
 
 esp32扩展板
 ==========
