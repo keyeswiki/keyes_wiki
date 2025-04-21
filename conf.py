@@ -18,7 +18,6 @@
 # -- Project information -----------------------------------------------------
 
 project = '科易互动机器人'
-copyright = 'keyes,WiKi'
 author = 'keyes'
 copyright = 'Shenzhen KEYES DIY ROBOT co., Ltd.'
 
@@ -27,7 +26,7 @@ copyright = 'Shenzhen KEYES DIY ROBOT co., Ltd.'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['myst_parser','sphinx_copybutton']
+extensions = ['myst_parser']
 
 source_suffix = {
     '.rst': 'restructuredtext',
