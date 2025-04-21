@@ -121,6 +121,13 @@ esp32 学习套装
   <a href="https://www.keyesrobot.cn/projects/KE3069" target="_blank">KE3069 Keyes ESP32 初级版学习套件</a>
 
 
+* |KE3100 Keyes 基于Arduino ESP32物联网控制的 智能农场学习套件|
+
+.. |KE3100 Keyes 基于Arduino ESP32物联网控制的 智能农场学习套件| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3100" target="_blank">KE3100 Keyes 基于Arduino ESP32物联网控制的 智能农场学习套件</a>
+
+
 
 esp32机器人
 ===========
