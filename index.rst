@@ -3,7 +3,7 @@
    :maxdepth: 3
    :caption: 科易互动机器人资料库
 
-   README.md
+   README
    docs/arduino/Arduino
    docs/esp32/ESP32
    docs/microbit/Microbit
