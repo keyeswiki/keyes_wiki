@@ -2,6 +2,16 @@
 ESP32
 =====
 
+ESP32 小智AI 聊天机器人
+======================
+
+* |小智AI聊天机器人|
+
+.. |小智AI聊天机器人| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/xiaozhi" target="_blank">小智AI聊天机器人</a>
+
+
 esp32开发板
 ==========
 
@@ -129,6 +139,9 @@ esp32 学习套装
 
 
 
+
+
+
 esp32机器人
 ===========
 
@@ -137,8 +150,6 @@ esp32机器人
 .. |KE3059 Keyes Beetlebot ESP32 3合1 智能小车| raw:: html
 
   <a href="https://www.keyesrobot.cn/projects/KE3059" target="_blank">KE3059 Keyes Beetlebot ESP32 3合1 智能小车</a>
-
-
 
 
 
