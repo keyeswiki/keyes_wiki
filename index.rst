@@ -10,3 +10,4 @@
    docs/raspberrypi/树莓派
    docs/raspberrypi/pico
    docs/sensor/sensor
+   docs/display/display
