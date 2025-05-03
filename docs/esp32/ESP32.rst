@@ -82,11 +82,17 @@ esp32 学习套装
 ============
 
 
-* |KE3050 Keyes IOT ESP32 Smart Home Kit|
+* |KE3050 Keyes IOT ESP32 Smart Home Kit 智能家居学习套件|
 
-.. |KE3050 Keyes IOT ESP32 Smart Home Kit| raw:: html
+.. |KE3050 Keyes IOT ESP32 Smart Home Kit 智能家居学习套件| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE3050" target="_blank">KE3050 Keyes IOT ESP32 Smart Home Kit</a>
+  <a href="https://www.keyesrobot.cn/projects/KE3050" target="_blank">KE3050 Keyes IOT ESP32 Smart Home Kit 智能家居学习套件</a>
+
+* |KE3100 Keyes Keyes IOT ESP32 Smart Farm Kit 智能农场学习套件|
+
+.. |KE3100 Keyes Keyes IOT ESP32 Smart Farm Kit 智能农场学习套件| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3100" target="_blank">KE3100 Keyes IOT ESP32 Smart Farm Kit 智能农场学习套件</a>
 
 
 * |KE3053 Keyes ESP32 24合1 传感器套装|
@@ -129,16 +135,6 @@ esp32 学习套装
 .. |KE3069 Keyes ESP32 初级版学习套件| raw:: html
 
   <a href="https://www.keyesrobot.cn/projects/KE3069" target="_blank">KE3069 Keyes ESP32 初级版学习套件</a>
-
-
-* |KE3100 Keyes 基于Arduino ESP32物联网控制的 智能农场学习套件|
-
-.. |KE3100 Keyes 基于Arduino ESP32物联网控制的 智能农场学习套件| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KE3100" target="_blank">KE3100 Keyes 基于Arduino ESP32物联网控制的 智能农场学习套件</a>
-
-
-
 
 
 
