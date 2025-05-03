@@ -617,11 +617,11 @@
 
   <a href="https://www.keyesrobot.cn/projects/commonsensor/zh-cn/latest/KE0178%20Keyes%20TM1637%204%E4%BD%8D%E6%95%B0%E7%A0%81%E7%AE%A1%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE0178 Keyes TM1637 4位数码管模块综合指南</a> 
 
-* |KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）|
+* |KE4082 keyes DIY电子积木 雾化模块 黑色 环保（红色端子）|
 
-.. |KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）| raw:: html
+.. |KE4082 keyes DIY电子积木 雾化模块 黑色 环保（红色端子）| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4082" target="_blank">KE4082 keyes 2021新款 DIY电子积木 雾化模块 黑色 环保（红色端子）</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4082" target="_blank">KE4082 keyes DIY电子积木 雾化模块 黑色 环保（红色端子）</a>
 
 
 
@@ -1097,419 +1097,419 @@ brick系列传感器和模块
 STEMdiy系列传感器和模块
 ====================
 
-* |KE4001 Keyes 2021新款 DIY电子积木 白色LED模块）|
+* |KE4001 Keyes DIY电子积木 白色LED模块）|
 
-.. |KE4001 Keyes 2021新款 DIY电子积木 白色LED模块）| raw:: html
+.. |KE4001 Keyes DIY电子积木 白色LED模块）| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4001/zh-cn/latest/" target="_blank">KE4001 Keyes 2021新款 DIY电子积木 白色LED模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4001/zh-cn/latest/" target="_blank">KE4001 Keyes DIY电子积木 白色LED模块</a>
 
-* |KE4002 Keyes 2021新款 DIY电子积木 蓝色LED模块|
+* |KE4002 Keyes DIY电子积木 蓝色LED模块|
 
-.. |KE4002 Keyes 2021新款 DIY电子积木 蓝色LED模块| raw:: html
+.. |KE4002 Keyes DIY电子积木 蓝色LED模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4002/zh-cn/latest/" target="_blank">KE4002 Keyes 2021新款 DIY电子积木 蓝色LED模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4002/zh-cn/latest/" target="_blank">KE4002 Keyes DIY电子积木 蓝色LED模块</a>
 
-* |KE4003 Keyes 2021新款 DIY电子积木 黄色LED模块|
+* |KE4003 Keyes DIY电子积木 黄色LED模块|
 
-.. |KE4003 Keyes 2021新款 DIY电子积木 黄色LED模块| raw:: html
+.. |KE4003 Keyes DIY电子积木 黄色LED模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4003/zh-cn/latest/" target="_blank">KE4003 Keyes 2021新款 DIY电子积木 黄色LED模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4003/zh-cn/latest/" target="_blank">KE4003 Keyes DIY电子积木 黄色LED模块</a>
 
-* |KE4004 Keyes 2021新款 DIY电子积木 绿色LED模块|
+* |KE4004 Keyes DIY电子积木 绿色LED模块|
 
-.. |KE4004 Keyes 2021新款 DIY电子积木 绿色LED模块| raw:: html
+.. |KE4004 Keyes DIY电子积木 绿色LED模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4004/zh-cn/latest/" target="_blank">KE4004 Keyes 2021新款 DIY电子积木 绿色LED模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4004/zh-cn/latest/" target="_blank">KE4004 Keyes DIY电子积木 绿色LED模块</a>
 
-* |KE4005 Keyes 2021新款 DIY电子积木 红色LED模块|
+* |KE4005 Keyes DIY电子积木 红色LED模块|
 
-.. |KE4005 Keyes 2021新款 DIY电子积木 红色LED模块| raw:: html
+.. |KE4005 Keyes DIY电子积木 红色LED模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4005/zh-cn/latest/" target="_blank">KE4005 Keyes 2021新款 DIY电子积木 红色LED模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4005/zh-cn/latest/" target="_blank">KE4005 Keyes DIY电子积木 红色LED模块</a>
 
-* |KE4006 Keyes 2021新款 DIY电子积木 红绿双色LED模块|
+* |KE4006 Keyes DIY电子积木 红绿双色LED模块|
 
-.. |KE4006 Keyes 2021新款 DIY电子积木 红绿双色LED模块| raw:: html
+.. |KE4006 Keyes DIY电子积木 红绿双色LED模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4006/zh-cn/latest/" target="_blank">KE4006 Keyes 2021新款 DIY电子积木 红绿双色LED模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4006/zh-cn/latest/" target="_blank">KE4006 Keyes DIY电子积木 红绿双色LED模块</a>
 
-* |KE4007 Keyes 2021新款 DIY电子积木 RGB LED模块|
+* |KE4007 Keyes DIY电子积木 RGB LED模块|
 
-.. |KE4007 Keyes 2021新款 DIY电子积木 RGB LED模块| raw:: html
+.. |KE4007 Keyes DIY电子积木 RGB LED模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4007/zh-cn/latest/" target="_blank">KE4007 Keyes 2021新款 DIY电子积木 RGB LED模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4007/zh-cn/latest/" target="_blank">KE4007 Keyes DIY电子积木 RGB LED模块</a>
 
-* |KE4008 Keyes 2021新款 DIY电子积木 交通灯模块|
+* |KE4008 Keyes DIY电子积木 交通灯模块|
 
-.. |KE4008 Keyes 2021新款 DIY电子积木 交通灯模块| raw:: html
+.. |KE4008 Keyes DIY电子积木 交通灯模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4008/zh-cn/latest/" target="_blank">KE4008 Keyes 2021新款 DIY电子积木 交通灯模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4008/zh-cn/latest/" target="_blank">KE4008 Keyes DIY电子积木 交通灯模块</a>
 
-* |KE4009 Keyes 2021新款 DIY电子积木 6812 RGB模块|
+* |KE4009 Keyes DIY电子积木 6812 RGB模块|
 
-.. |KE4009 Keyes 2021新款 DIY电子积木 6812 RGB模块| raw:: html
+.. |KE4009 Keyes DIY电子积木 6812 RGB模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4009/zh-cn/latest/" target="_blank">KE4009 Keyes 2021新款 DIY电子积木 6812 RGB模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4009/zh-cn/latest/" target="_blank">KE4009 Keyes DIY电子积木 6812 RGB模块</a>
 
-* |KE4010 Keyes 2021新款 DIY电子积木 有源蜂鸣器模块|
+* |KE4010 Keyes DIY电子积木 有源蜂鸣器模块|
 
-.. |KE4010 Keyes 2021新款 DIY电子积木 有源蜂鸣器模块| raw:: html
+.. |KE4010 Keyes DIY电子积木 有源蜂鸣器模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4010/zh-cn/latest/" target="_blank">KE4010 Keyes 2021新款 DIY电子积木 有源蜂鸣器模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4010/zh-cn/latest/" target="_blank">KE4010 Keyes DIY电子积木 有源蜂鸣器模块</a>
 
-* |KE4011 Keyes 2021新款 DIY电子积木 无源蜂鸣器模块|
+* |KE4011 Keyes DIY电子积木 无源蜂鸣器模块|
 
-.. |KE4011 Keyes 2021新款 DIY电子积木 无源蜂鸣器模块| raw:: html
+.. |KE4011 Keyes DIY电子积木 无源蜂鸣器模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4011/zh-cn/latest/" target="_blank">KE4011 Keyes 2021新款 DIY电子积木 无源蜂鸣器模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4011/zh-cn/latest/" target="_blank">KE4011 Keyes DIY电子积木 无源蜂鸣器模块</a>
 
-* |KE4012 Keyes 2021新款 DIY电子积木 单路按键模块|
+* |KE4012 Keyes DIY电子积木 单路按键模块|
 
-.. |KE4012 Keyes 2021新款 DIY电子积木 单路按键模块| raw:: html
+.. |KE4012 Keyes DIY电子积木 单路按键模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4012/zh-cn/latest/" target="_blank">KE4012 Keyes 2021新款 DIY电子积木 单路按键模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4012/zh-cn/latest/" target="_blank">KE4012 Keyes DIY电子积木 单路按键模块</a>
 
-* |KE4013 Keyes 2021新款 DIY电子积木 电容触摸模块|
+* |KE4013 Keyes DIY电子积木 电容触摸模块|
 
-.. |KE4013 Keyes 2021新款 DIY电子积木 电容触摸模块| raw:: html
+.. |KE4013 Keyes DIY电子积木 电容触摸模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4013/zh-cn/latest/" target="_blank">KE4013 Keyes 2021新款 DIY电子积木 电容触摸模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4013/zh-cn/latest/" target="_blank">KE4013 Keyes DIY电子积木 电容触摸模块</a>
 
-* |KE4014 Keyes 2021新款 DIY电子积木 光折断模块|
+* |KE4014 Keyes DIY电子积木 光折断模块|
 
-.. |KE4014 Keyes 2021新款 DIY电子积木 光折断模块| raw:: html
+.. |KE4014 Keyes DIY电子积木 光折断模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4014/zh-cn/latest/" target="_blank">KE4014 Keyes 2021新款 DIY电子积木 光折断模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4014/zh-cn/latest/" target="_blank">KE4014 Keyes DIY电子积木 光折断模块</a>
 
-* |KE4015 Keyes 2021新款 DIY电子积木 干簧管模块|
+* |KE4015 Keyes DIY电子积木 干簧管模块|
 
-.. |KE4015 Keyes 2021新款 DIY电子积木 干簧管模块| raw:: html
+.. |KE4015 Keyes DIY电子积木 干簧管模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4015/zh-cn/latest/" target="_blank">KE4015 Keyes 2021新款 DIY电子积木 干簧管模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4015/zh-cn/latest/" target="_blank">KE4015 Keyes DIY电子积木 干簧管模块</a>
 
-* |KE4016 Keyes 2021新款 DIY电子积木 霍尔传感器|
+* |KE4016 Keyes DIY电子积木 霍尔传感器|
 
-.. |KE4016 Keyes 2021新款 DIY电子积木 霍尔传感器| raw:: html
+.. |KE4016 Keyes DIY电子积木 霍尔传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4016/zh-cn/latest/" target="_blank">KE4016 Keyes 2021新款 DIY电子积木 霍尔传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4016/zh-cn/latest/" target="_blank">KE4016 Keyes DIY电子积木 霍尔传感器</a>
 
-* |KE4017 Keyes 2021新款 DIY电子积木 倾斜传感器|
+* |KE4017 Keyes DIY电子积木 倾斜传感器|
 
-.. |KE4017 Keyes 2021新款 DIY电子积木 倾斜传感器| raw:: html
+.. |KE4017 Keyes DIY电子积木 倾斜传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4017/zh-cn/latest/" target="_blank">KE4017 Keyes 2021新款 DIY电子积木 倾斜传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4017/zh-cn/latest/" target="_blank">KE4017 Keyes DIY电子积木 倾斜传感器</a>
 
-* |KE4018 Keyes 2021新款 DIY电子积木 人体红外热释传感器|
+* |KE4018 Keyes DIY电子积木 人体红外热释传感器|
 
-.. |KE4018 Keyes 2021新款 DIY电子积木 人体红外热释传感器| raw:: html
+.. |KE4018 Keyes DIY电子积木 人体红外热释传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4018/zh-cn/latest/" target="_blank">KE4018 Keyes 2021新款 DIY电子积木 人体红外热释传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4018/zh-cn/latest/" target="_blank">KE4018 Keyes DIY电子积木 人体红外热释传感器</a>
 
-* |KE4019 Keyes 2021新款 DIY电子积木 避障传感器|
+* |KE4019 Keyes DIY电子积木 避障传感器|
 
-.. |KE4019 Keyes 2021新款 DIY电子积木 避障传感器| raw:: html
+.. |KE4019 Keyes DIY电子积木 避障传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4019/zh-cn/latest/" target="_blank">KE4019 Keyes 2021新款 DIY电子积木 避障传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4019/zh-cn/latest/" target="_blank">KE4019 Keyes DIY电子积木 避障传感器</a>
 
-* |KE4020 Keyes 2021新款 DIY电子积木 火焰传感器|
+* |KE4020 Keyes DIY电子积木 火焰传感器|
 
-.. |KE4020 Keyes 2021新款 DIY电子积木 火焰传感器| raw:: html
+.. |KE4020 Keyes DIY电子积木 火焰传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4020/zh-cn/latest/" target="_blank">KE4020 Keyes 2021新款 DIY电子积木 火焰传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4020/zh-cn/latest/" target="_blank">KE4020 Keyes DIY电子积木 火焰传感器</a>
 
-* |KE4021 Keyes 2021新款 DIY电子积木 敲击传感器|
+* |KE4021 Keyes DIY电子积木 敲击传感器|
 
-.. |KE4021 Keyes 2021新款 DIY电子积木 敲击传感器| raw:: html
+.. |KE4021 Keyes DIY电子积木 敲击传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4021/zh-cn/latest/" target="_blank">KE4021 Keyes 2021新款 DIY电子积木 敲击传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4021/zh-cn/latest/" target="_blank">KE4021 Keyes DIY电子积木 敲击传感器</a>
 
-* |KE4022 Keyes 2021新款 DIY电子积木 舵机驱动模块|
+* |KE4022 Keyes DIY电子积木 舵机驱动模块|
 
-.. |KE4022 Keyes 2021新款 DIY电子积木 舵机驱动模块| raw:: html
+.. |KE4022 Keyes DIY电子积木 舵机驱动模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4022/zh-cn/latest/" target="_blank">KE4022 Keyes 2021新款 DIY电子积木 舵机驱动模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4022/zh-cn/latest/" target="_blank">KE4022 Keyes DIY电子积木 舵机驱动模块</a>
 
-* |KE4023 Keyes 2021新款 DIY电子积木 碰撞传感器|
+* |KE4023 Keyes DIY电子积木 碰撞传感器|
 
-.. |KE4023 Keyes 2021新款 DIY电子积木 碰撞传感器| raw:: html
+.. |KE4023 Keyes DIY电子积木 碰撞传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4023/zh-cn/latest/" target="_blank">KE4023 Keyes 2021新款 DIY电子积木 碰撞传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4023/zh-cn/latest/" target="_blank">KE4023 Keyes DIY电子积木 碰撞传感器</a>
 
-* |KE4024 Keyes 2021新款 DIY电子积木 单路循线传感器|
+* |KE4024 Keyes DIY电子积木 单路循线传感器|
 
-.. |KE4024 Keyes 2021新款 DIY电子积木 单路循线传感器| raw:: html
+.. |KE4024 Keyes DIY电子积木 单路循线传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4024/zh-cn/latest/" target="_blank">KE4024 Keyes 2021新款 DIY电子积木 单路循线传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4024/zh-cn/latest/" target="_blank">KE4024 Keyes DIY电子积木 单路循线传感器</a>
 
-* |KE4025 Keyes 2021新款 DIY电子积木 NTC-MF52AT模拟温度传感器|
+* |KE4025 Keyes DIY电子积木 NTC-MF52AT模拟温度传感器|
 
-.. |KE4025 Keyes 2021新款 DIY电子积木 NTC-MF52AT模拟温度传感器| raw:: html
+.. |KE4025 Keyes DIY电子积木 NTC-MF52AT模拟温度传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4025/zh-cn/latest/" target="_blank">KE4025 Keyes 2021新款 DIY电子积木 NTC-MF52AT模拟温度传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4025/zh-cn/latest/" target="_blank">KE4025 Keyes DIY电子积木 NTC-MF52AT模拟温度传感器</a>
 
-* |KE4026 Keyes 2021新款 DIY电子积木 光敏电阻传感器|
+* |KE4026 Keyes DIY电子积木 光敏电阻传感器|
 
-.. |KE4026 Keyes 2021新款 DIY电子积木 光敏电阻传感器| raw:: html
+.. |KE4026 Keyes DIY电子积木 光敏电阻传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4026/zh-cn/latest/" target="_blank">KE4026 Keyes 2021新款 DIY电子积木 光敏电阻传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4026/zh-cn/latest/" target="_blank">KE4026 Keyes DIY电子积木 光敏电阻传感器</a>
 
-* |KE4027 Keyes 2021新款 DIY电子积木 声音传感器|
+* |KE4027 Keyes DIY电子积木 声音传感器|
 
-.. |KE4027 Keyes 2021新款 DIY电子积木 声音传感器| raw:: html
+.. |KE4027 Keyes DIY电子积木 声音传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4027/zh-cn/latest/" target="_blank">KE4027 Keyes 2021新款 DIY电子积木 声音传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4027/zh-cn/latest/" target="_blank">KE4027 Keyes DIY电子积木 声音传感器</a>
 
-* |KE4028 Keyes 2021新款 DIY电子积木 MQ-3酒精传感器|
+* |KE4028 Keyes DIY电子积木 MQ-3酒精传感器|
 
-.. |KE4028 Keyes 2021新款 DIY电子积木 MQ-3酒精传感器| raw:: html
+.. |KE4028 Keyes DIY电子积木 MQ-3酒精传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4028/zh-cn/latest/" target="_blank">KE4028 Keyes 2021新款 DIY电子积木 MQ-3酒精传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4028/zh-cn/latest/" target="_blank">KE4028 Keyes DIY电子积木 MQ-3酒精传感器</a>
 
-* |KE4029 Keyes 2021新款 DIY电子积木 MQ-2模拟气体传感器|
+* |KE4029 Keyes DIY电子积木 MQ-2模拟气体传感器|
 
-.. |KE4029 Keyes 2021新款 DIY电子积木 MQ-2模拟气体传感器| raw:: html
+.. |KE4029 Keyes DIY电子积木 MQ-2模拟气体传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4029/zh-cn/latest/" target="_blank">KE4029 Keyes 2021新款 DIY电子积木 MQ-2模拟气体传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4029/zh-cn/latest/" target="_blank">KE4029 Keyes DIY电子积木 MQ-2模拟气体传感器</a>
 
-* |KE4030 Keyes 2021新款 DIY电子积木 旋转电位器传感器|
+* |KE4030 Keyes DIY电子积木 旋转电位器传感器|
 
-.. |KE4030 Keyes 2021新款 DIY电子积木 旋转电位器传感器| raw:: html
+.. |KE4030 Keyes DIY电子积木 旋转电位器传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4030/zh-cn/latest/" target="_blank">KE4030 Keyes 2021新款 DIY电子积木 旋转电位器传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4030/zh-cn/latest/" target="_blank">KE4030 Keyes DIY电子积木 旋转电位器传感器</a>
 
-* |KE4031 Keyes 2021新款 DIY电子积木 TEMT6000光线传感器|
+* |KE4031 Keyes DIY电子积木 TEMT6000光线传感器|
 
-.. |KE4031 Keyes 2021新款 DIY电子积木 TEMT6000光线传感器| raw:: html
+.. |KE4031 Keyes DIY电子积木 TEMT6000光线传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4031/zh-cn/latest/" target="_blank">KE4031 Keyes 2021新款 DIY电子积木 TEMT6000光线传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4031/zh-cn/latest/" target="_blank">KE4031 Keyes DIY电子积木 TEMT6000光线传感器</a>
 
-* |KE4032 Keyes 2021新款 DIY电子积木 GUVA-S12SD太阳光紫外线传感器|
+* |KE4032 Keyes DIY电子积木 GUVA-S12SD太阳光紫外线传感器|
 
-.. |KE4032 Keyes 2021新款 DIY电子积木 GUVA-S12SD太阳光紫外线传感器| raw:: html
+.. |KE4032 Keyes DIY电子积木 GUVA-S12SD太阳光紫外线传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4032/zh-cn/latest/" target="_blank">KE4032 Keyes 2021新款 DIY电子积木 GUVA-S12SD太阳光紫外线传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4032/zh-cn/latest/" target="_blank">KE4032 Keyes DIY电子积木 GUVA-S12SD太阳光紫外线传感器</a>
 
-* |KE4033 Keyes 2021新款 DIY电子积木 DHT11温湿度传感器|
+* |KE4033 Keyes DIY电子积木 DHT11温湿度传感器|
 
-.. |KE4033 Keyes 2021新款 DIY电子积木 DHT11温湿度传感器| raw:: html
+.. |KE4033 Keyes DIY电子积木 DHT11温湿度传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4033/zh-cn/latest/" target="_blank">KE4033 Keyes 2021新款 DIY电子积木 DHT11温湿度传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4033/zh-cn/latest/" target="_blank">KE4033 Keyes DIY电子积木 DHT11温湿度传感器</a>
 
-* |KE4034 Keyes 2021新款 DIY电子积木 DS18B20温度传感器|
+* |KE4034 Keyes DIY电子积木 DS18B20温度传感器|
 
-.. |KE4034 Keyes 2021新款 DIY电子积木 DS18B20温度传感器| raw:: html
+.. |KE4034 Keyes DIY电子积木 DS18B20温度传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4034/zh-cn/latest/" target="_blank">KE4034 Keyes 2021新款 DIY电子积木 DS18B20温度传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4034/zh-cn/latest/" target="_blank">KE4034 Keyes DIY电子积木 DS18B20温度传感器</a>
 
-* |KE4035 Keyes 2021新款 DIY电子积木 LM35温度传感器|
+* |KE4035 Keyes DIY电子积木 LM35温度传感器|
 
-.. |KE4035 Keyes 2021新款 DIY电子积木 LM35温度传感器| raw:: html
+.. |KE4035 Keyes DIY电子积木 LM35温度传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4035/zh-cn/latest/" target="_blank">KE4035 Keyes 2021新款 DIY电子积木 LM35温度传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4035/zh-cn/latest/" target="_blank">KE4035 Keyes DIY电子积木 LM35温度传感器</a>
 
-* |KE4036 Keyes 2021新款 DIY电子积木 红外接收模块|
+* |KE4036 Keyes DIY电子积木 红外接收模块|
 
-.. |KE4036 Keyes 2021新款 DIY电子积木 红外接收模块| raw:: html
+.. |KE4036 Keyes DIY电子积木 红外接收模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4036/zh-cn/latest/" target="_blank">KE4036 Keyes 2021新款 DIY电子积木 红外接收模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4036/zh-cn/latest/" target="_blank">KE4036 Keyes DIY电子积木 红外接收模块</a>
 
-* |KE4037 Keyes 2021新款 DIY电子积木 红外发射模块|
+* |KE4037 Keyes DIY电子积木 红外发射模块|
 
-.. |KE4037 Keyes 2021新款 DIY电子积木 红外发射模块| raw:: html
+.. |KE4037 Keyes DIY电子积木 红外发射模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4037/zh-cn/latest/" target="_blank">KE4037 Keyes 2021新款 DIY电子积木 红外发射模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4037/zh-cn/latest/" target="_blank">KE4037 Keyes DIY电子积木 红外发射模块</a>
 
-* |KE4038 Keyes 2021新款 DIY电子积木 130电机模块|
+* |KE4038 Keyes DIY电子积木 130电机模块|
 
-.. |KE4038 Keyes 2021新款 DIY电子积木 130电机模块| raw:: html
+.. |KE4038 Keyes DIY电子积木 130电机模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4038/zh-cn/latest/" target="_blank">KE4038 Keyes 2021新款 DIY电子积木 130电机模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4038/zh-cn/latest/" target="_blank">KE4038 Keyes DIY电子积木 130电机模块</a>
 
-* |KE4039 Keyes 2021新款 DIY电子积木 超声波转接模块|
+* |KE4039 Keyes DIY电子积木 超声波转接模块|
 
-.. |KE4039 Keyes 2021新款 DIY电子积木 超声波转接模块| raw:: html
+.. |KE4039 Keyes DIY电子积木 超声波转接模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4039/zh-cn/latest/" target="_blank">KE4039 Keyes 2021新款 DIY电子积木 超声波转接模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4039/zh-cn/latest/" target="_blank">KE4039 Keyes DIY电子积木 超声波转接模块</a>
 
-* |KE4040 Keyes 2021新款 DIY电子积木 BMP388气压传感器|
+* |KE4040 Keyes DIY电子积木 BMP388气压传感器|
 
-.. |KE4040 Keyes 2021新款 DIY电子积木 BMP388气压传感器| raw:: html
+.. |KE4040 Keyes DIY电子积木 BMP388气压传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4040/zh-cn/latest/" target="_blank">KE4040 Keyes 2021新款 DIY电子积木 BMP388气压传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4040/zh-cn/latest/" target="_blank">KE4040 Keyes DIY电子积木 BMP388气压传感器</a>
 
-* |KE4041 Keyes 2021新款 DIY电子积木 DS3231S时钟模块|
+* |KE4041 Keyes DIY电子积木 DS3231S时钟模块|
 
-.. |KE4041 Keyes 2021新款 DIY电子积木 DS3231S时钟模块| raw:: html
+.. |KE4041 Keyes DIY电子积木 DS3231S时钟模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4041/zh-cn/latest/" target="_blank">KE4041 Keyes 2021新款 DIY电子积木 DS3231S时钟模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4041/zh-cn/latest/" target="_blank">KE4041 Keyes DIY电子积木 DS3231S时钟模块</a>
 
-* |KE4042 Keyes 2021新款 DIY电子积木 PAJ7620手势识别传感器|
+* |KE4042 Keyes DIY电子积木 PAJ7620手势识别传感器|
 
-.. |KE4042 Keyes 2021新款 DIY电子积木 PAJ7620手势识别传感器| raw:: html
+.. |KE4042 Keyes DIY电子积木 PAJ7620手势识别传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4042/zh-cn/latest/" target="_blank">KE4042 Keyes 2021新款 DIY电子积木 PAJ7620手势识别传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4042/zh-cn/latest/" target="_blank">KE4042 Keyes DIY电子积木 PAJ7620手势识别传感器</a>
 
-* |KE4043 Keyes 2021新款 DIY电子积木 激光模块|
+* |KE4043 Keyes DIY电子积木 激光模块|
 
-.. |KE4043 Keyes 2021新款 DIY电子积木 激光模块| raw:: html
+.. |KE4043 Keyes DIY电子积木 激光模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4043/zh-cn/latest/" target="_blank">KE4043 Keyes 2021新款 DIY电子积木 激光模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4043/zh-cn/latest/" target="_blank">KE4043 Keyes DIY电子积木 激光模块</a>
 
-* |KE4044 Keyes 2021新款 DIY电子积木 震动马达模块|
+* |KE4044 Keyes DIY电子积木 震动马达模块|
 
-.. |KE4044 Keyes 2021新款 DIY电子积木 震动马达模块| raw:: html
+.. |KE4044 Keyes DIY电子积木 震动马达模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4044/zh-cn/latest/" target="_blank">KE4044 Keyes 2021新款 DIY电子积木 震动马达模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4044/zh-cn/latest/" target="_blank">KE4044 Keyes DIY电子积木 震动马达模块</a>
 
-* |KE4045S Keyes 2021新款 DIY电子积木 自锁按键模块|
+* |KE4045S Keyes DIY电子积木 自锁按键模块|
 
-.. |KE4045S Keyes 2021新款 DIY电子积木 自锁按键模块| raw:: html
+.. |KE4045S Keyes DIY电子积木 自锁按键模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4045/zh-cn/latest/" target="_blank">KE4045S Keyes 2021新款 DIY电子积木 自锁按键模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4045/zh-cn/latest/" target="_blank">KE4045S Keyes DIY电子积木 自锁按键模块</a>
 
-* |KE4047 Keyes 2021新款 DIY电子积木 TCS34725颜色传感器|
+* |KE4047 Keyes DIY电子积木 TCS34725颜色传感器|
 
-.. |KE4047 Keyes 2021新款 DIY电子积木 TCS34725颜色传感器| raw:: html
+.. |KE4047 Keyes DIY电子积木 TCS34725颜色传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4047/zh-cn/latest/" target="_blank">KE4047 Keyes 2021新款 DIY电子积木 TCS34725颜色传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4047/zh-cn/latest/" target="_blank">KE4047 Keyes DIY电子积木 TCS34725颜色传感器</a>
 
-* |KE4048 Keyes 2021新款 DIY电子积木 水滴传感器|
+* |KE4048 Keyes DIY电子积木 水滴传感器|
 
-.. |KE4048 Keyes 2021新款 DIY电子积木 水滴传感器| raw:: html
+.. |KE4048 Keyes DIY电子积木 水滴传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4048/zh-cn/latest/" target="_blank">KE4048 Keyes 2021新款 DIY电子积木 水滴传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4048/zh-cn/latest/" target="_blank">KE4048 Keyes DIY电子积木 水滴传感器</a>
 
-* |KE4049 Keyes 2021新款 DIY电子积木 旋转编码器模块|
+* |KE4049 Keyes DIY电子积木 旋转编码器模块|
 
-.. |KE4049 Keyes 2021新款 DIY电子积木 旋转编码器模块| raw:: html
+.. |KE4049 Keyes DIY电子积木 旋转编码器模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4049/zh-cn/latest/" target="_blank">KE4049 Keyes 2021新款 DIY电子积木 旋转编码器模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4049/zh-cn/latest/" target="_blank">KE4049 Keyes DIY电子积木 旋转编码器模块</a>
 
-* |KE4050 Keyes 2021新款 DIY电子积木 摇杆模块|
+* |KE4050 Keyes DIY电子积木 摇杆模块|
 
-.. |KE4050 Keyes 2021新款 DIY电子积木 摇杆模块| raw:: html
+.. |KE4050 Keyes DIY电子积木 摇杆模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4050/zh-cn/latest/" target="_blank">KE4050 Keyes 2021新款 DIY电子积木 摇杆模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4050/zh-cn/latest/" target="_blank">KE4050 Keyes DIY电子积木 摇杆模块</a>
 
-* |KE4051 Keyes 2021新款 DIY电子积木 双路巡线传感器|
+* |KE4051 Keyes DIY电子积木 双路巡线传感器|
 
-.. |KE4051 Keyes 2021新款 DIY电子积木 双路巡线传感器| raw:: html
+.. |KE4051 Keyes DIY电子积木 双路巡线传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4051/zh-cn/latest/" target="_blank">KE4051 Keyes 2021新款 DIY电子积木 双路巡线传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4051/zh-cn/latest/" target="_blank">KE4051 Keyes DIY电子积木 双路巡线传感器</a>
 
-* |KE4052 Keyes 2021新款 DIY电子积木 震动传感器|
+* |KE4052 Keyes DIY电子积木 震动传感器|
 
-.. |KE4052 Keyes 2021新款 DIY电子积木 震动传感器| raw:: html
+.. |KE4052 Keyes DIY电子积木 震动传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4052/zh-cn/latest/" target="_blank">KE4052 Keyes 2021新款 DIY电子积木 震动传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4052/zh-cn/latest/" target="_blank">KE4052 Keyes DIY电子积木 震动传感器</a>
 
-* |KE4053 Keyes 2021新款 DIY电子积木 数字光强度模块 BH1750FVI|
+* |KE4053 Keyes DIY电子积木 数字光强度模块 BH1750FVI|
 
-.. |KE4053 Keyes 2021新款 DIY电子积木 数字光强度模块 BH1750FVI| raw:: html
+.. |KE4053 Keyes DIY电子积木 数字光强度模块 BH1750FVI| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4053/zh-cn/latest/" target="_blank">KE4053 Keyes 2021新款 DIY电子积木 数字光强度模块 BH1750FVI</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4053/zh-cn/latest/" target="_blank">KE4053 Keyes DIY电子积木 数字光强度模块 BH1750FVI</a>
 
-* |KE4055 Keyes 2021新款 DIY电子积木 ACS712-30A电流传感器|
+* |KE4055 Keyes DIY电子积木 ACS712-30A电流传感器|
 
-.. |KE4055 Keyes 2021新款 DIY电子积木 ACS712-30A电流传感器| raw:: html
+.. |KE4055 Keyes DIY电子积木 ACS712-30A电流传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4055/zh-cn/latest/" target="_blank">KE4055 Keyes 2021新款 DIY电子积木 ACS712-30A电流传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4055/zh-cn/latest/" target="_blank">KE4055 Keyes DIY电子积木 ACS712-30A电流传感器</a>
 
-* |KE4056 Keyes 2021新款 DIY电子积木 MLX90614非接触式红外测温传感器|
+* |KE4056 Keyes DIY电子积木 MLX90614非接触式红外测温传感器|
 
-.. |KE4056 Keyes 2021新款 DIY电子积木 MLX90614非接触式红外测温传感器| raw:: html
+.. |KE4056 Keyes DIY电子积木 MLX90614非接触式红外测温传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4056/zh-cn/latest/" target="_blank">KE4056 Keyes 2021新款 DIY电子积木 MLX90614非接触式红外测温传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4056/zh-cn/latest/" target="_blank">KE4056 Keyes DIY电子积木 MLX90614非接触式红外测温传感器</a>
 
-* |KE4057 Keyes 2021新款 DIY电子积木 MPU6050三轴加速传感器|
+* |KE4057 Keyes DIY电子积木 MPU6050三轴加速传感器|
 
-.. |KE4057 Keyes 2021新款 DIY电子积木 MPU6050三轴加速传感器| raw:: html
+.. |KE4057 Keyes DIY电子积木 MPU6050三轴加速传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4057/zh-cn/latest/" target="_blank">KE4057 Keyes 2021新款 DIY电子积木 MPU6050三轴加速传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4057/zh-cn/latest/" target="_blank">KE4057 Keyes DIY电子积木 MPU6050三轴加速传感器</a>
 
-* |KE4058 Keyes 2021新款 DIY电子积木 MAX30102心率传感器|
+* |KE4058 Keyes DIY电子积木 MAX30102心率传感器|
 
-.. |KE4058 Keyes 2021新款 DIY电子积木 MAX30102心率传感器| raw:: html
+.. |KE4058 Keyes DIY电子积木 MAX30102心率传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4058/zh-cn/latest/" target="_blank">KE4058 Keyes 2021新款 DIY电子积木 MAX30102心率传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4058/zh-cn/latest/" target="_blank">KE4058 Keyes DIY电子积木 MAX30102心率传感器</a>
 
-* |KE4061 Keyes 2021新款 DIY电子积木 LCD_128X32_DOT模块|
+* |KE4061 Keyes DIY电子积木 LCD_128X32_DOT模块|
 
-.. |KE4061 Keyes 2021新款 DIY电子积木 LCD_128X32_DOT模块| raw:: html
+.. |KE4061 Keyes DIY电子积木 LCD_128X32_DOT模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4061/zh-cn/latest/" target="_blank">KE4061 Keyes 2021新款 DIY电子积木 LCD_128X32_DOT模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4061/zh-cn/latest/" target="_blank">KE4061 Keyes DIY电子积木 LCD_128X32_DOT模块</a>
 
-* |KE4062 Keyes 2021新款 DIY电子积木 单路5V继电器模块|
+* |KE4062 Keyes DIY电子积木 单路5V继电器模块|
 
-.. |KE4062 Keyes 2021新款 DIY电子积木 单路5V继电器模块| raw:: html
+.. |KE4062 Keyes DIY电子积木 单路5V继电器模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4062/zh-cn/latest/" target="_blank">KE4062 Keyes 2021新款 DIY电子积木 单路5V继电器模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4062/zh-cn/latest/" target="_blank">KE4062 Keyes DIY电子积木 单路5V继电器模块</a>
 
-* |KE4063 Keyes 2021新款 DIY电子积木 HM-10蓝牙模块|
+* |KE4063 Keyes DIY电子积木 HM-10蓝牙模块|
 
-.. |KE4063 Keyes 2021新款 DIY电子积木 HM-10蓝牙模块| raw:: html
+.. |KE4063 Keyes DIY电子积木 HM-10蓝牙模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4063/zh-cn/latest/" target="_blank">KE4063 Keyes 2021新款 DIY电子积木 HM-10蓝牙模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4063/zh-cn/latest/" target="_blank">KE4063 Keyes DIY电子积木 HM-10蓝牙模块</a>
 
-* |KE4064 Keyes 2021新款 DIY电子积木 滑动电位器模块|
+* |KE4064 Keyes DIY电子积木 滑动电位器模块|
 
-.. |KE4064 Keyes 2021新款 DIY电子积木 滑动电位器模块| raw:: html
+.. |KE4064 Keyes DIY电子积木 滑动电位器模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4064/zh-cn/latest/" target="_blank">KE4064 Keyes 2021新款 DIY电子积木 滑动电位器模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4064/zh-cn/latest/" target="_blank">KE4064 Keyes DIY电子积木 滑动电位器模块</a>
 
-* |KE4065 Keyes 2021新款 DIY电子积木 RFID刷卡模块|
+* |KE4065 Keyes DIY电子积木 RFID刷卡模块|
 
-.. |KE4065 Keyes 2021新款 DIY电子积木 RFID刷卡模块| raw:: html
+.. |KE4065 Keyes DIY电子积木 RFID刷卡模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4065/zh-cn/latest/" target="_blank">KE4065 Keyes 2021新款 DIY电子积木 RFID刷卡模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4065/zh-cn/latest/" target="_blank">KE4065 Keyes DIY电子积木 RFID刷卡模块</a>
 
-* |KE4066 Keyes 2021新款 DIY电子积木 HT16K33_8X8点阵模块|
+* |KE4066 Keyes DIY电子积木 HT16K33_8X8点阵模块|
 
-.. |KE4066 Keyes 2021新款 DIY电子积木 HT16K33_8X8点阵模块| raw:: html
+.. |KE4066 Keyes DIY电子积木 HT16K33_8X8点阵模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4066/zh-cn/latest/" target="_blank">KE4066 Keyes 2021新款 DIY电子积木 HT16K33_8X8点阵模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4066/zh-cn/latest/" target="_blank">KE4066 Keyes DIY电子积木 HT16K33_8X8点阵模块</a>
 
-* |KE4067 Keyes 2021新款 DIY电子积木 8002b功放 喇叭模块|
+* |KE4067 Keyes DIY电子积木 8002b功放 喇叭模块|
 
-.. |KE4067 Keyes 2021新款 DIY电子积木 8002b功放 喇叭模块| raw:: html
+.. |KE4067 Keyes DIY电子积木 8002b功放 喇叭模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4067/zh-cn/latest/" target="_blank">KE4067 Keyes 2021新款 DIY电子积木 8002b功放 喇叭模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4067/zh-cn/latest/" target="_blank">KE4067 Keyes DIY电子积木 8002b功放 喇叭模块</a>
 
-* |KE4068 Keyes 2021新款 DIY电子积木 五路AD按键模块|
+* |KE4068 Keyes DIY电子积木 五路AD按键模块|
 
-.. |KE4068 Keyes 2021新款 DIY电子积木 五路AD按键模块| raw:: html
+.. |KE4068 Keyes DIY电子积木 五路AD按键模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4068/zh-cn/latest/" target="_blank">KE4068 Keyes 2021新款 DIY电子积木 五路AD按键模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4068/zh-cn/latest/" target="_blank">KE4068 Keyes DIY电子积木 五路AD按键模块</a>
 
-* |KE4069 Keyes 2021新款 DIY电子积木 薄膜压力传感器|
+* |KE4069 Keyes DIY电子积木 薄膜压力传感器|
 
-.. |KE4069 Keyes 2021新款 DIY电子积木 薄膜压力传感器| raw:: html
+.. |KE4069 Keyes DIY电子积木 薄膜压力传感器| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4069/zh-cn/latest/" target="_blank">KE4069 Keyes 2021新款 DIY电子积木 薄膜压力传感器</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4069/zh-cn/latest/" target="_blank">KE4069 Keyes DIY电子积木 薄膜压力传感器</a>
 
-* |KE4072 Keyes 2021新款 DIY电子积木 DS1307传感器模块|
+* |KE4072 Keyes DIY电子积木 DS1307传感器模块|
 
-.. |KE4072 Keyes 2021新款 DIY电子积木 DS1307传感器模块| raw:: html
+.. |KE4072 Keyes DIY电子积木 DS1307传感器模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4072/zh-cn/latest/" target="_blank">KE4072 Keyes 2021新款 DIY电子积木 DS1307传感器模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4072/zh-cn/latest/" target="_blank">KE4072 Keyes DIY电子积木 DS1307传感器模块</a>
 
-* |KE4073 Keyes 2021新款 DIY电子积木 ADXL345加速度传感器模块|
+* |KE4073 Keyes DIY电子积木 ADXL345加速度传感器模块|
 
-.. |KE4073 Keyes 2021新款 DIY电子积木 ADXL345加速度传感器模块| raw:: html
+.. |KE4073 Keyes DIY电子积木 ADXL345加速度传感器模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4073/zh-cn/latest/" target="_blank">KE4073 Keyes 2021新款 DIY电子积木 ADXL345加速度传感器模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4073/zh-cn/latest/" target="_blank">KE4073 Keyes DIY电子积木 ADXL345加速度传感器模块</a>
 
-* |KE4074 Keyes 2021新款 DIY电子积木 RGB模块|
+* |KE4074 Keyes DIY电子积木 RGB模块|
 
-.. |KE4074 Keyes 2021新款 DIY电子积木 RGB模块| raw:: html
+.. |KE4074 Keyes DIY电子积木 RGB模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4074/zh-cn/latest/" target="_blank">KE4074 Keyes 2021新款 DIY电子积木 RGB模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4074/zh-cn/latest/" target="_blank">KE4074 Keyes DIY电子积木 RGB模块</a>
 
-* |KE4075 Keyes 2021新款 DIY电子积木 紫色LED模块|
+* |KE4075 Keyes DIY电子积木 紫色LED模块|
 
-.. |KE4075 Keyes 2021新款 DIY电子积木 紫色LED模块| raw:: html
+.. |KE4075 Keyes DIY电子积木 紫色LED模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE4075/zh-cn/latest/" target="_blank">KE4075 Keyes 2021新款 DIY电子积木 紫色LED模块</a>
+  <a href="https://www.keyesrobot.cn/projects/KE4075/zh-cn/latest/" target="_blank">KE4075 Keyes DIY电子积木 紫色LED模块</a>
 
 
 
