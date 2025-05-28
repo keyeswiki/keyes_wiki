@@ -2,20 +2,20 @@
 其它元器件模块
 =============
 
-* |MD0776 ZN001-CH340C|
+* |MD0776-CH340 四电平 升级刷机板|
 
-.. |MD0776 ZN001-CH340C| raw:: html
+.. |MD0776-CH340 四电平 升级刷机板| raw:: html
 
-  <a href="https://md0776.readthedocs.io/en/latest/" target="_blank">MD0776 ZN001-CH340C</a> 
+  <a href="https://www.keyesrobot.cn/projects/md0776/en/latest/" target="_blank">MD0776-CH340 四电平 升级刷机板</a> 
 
-* |MD0777 ZN004-CH344Q|
+* |MD0777-CH344 4路四电平串口模块|
 
-.. |MD0777 ZN004-CH344Q| raw:: html
+.. |MD0777-CH344 4路四电平串口模块| raw:: html
 
-  <a href="https://md0777.readthedocs.io/en/latest/" target="_blank">MD0777 ZN004-CH344Q</a> 
+  <a href="https://www.keyesrobot.cn/projects/md0777/en/latest/" target="_blank">MD0777-CH344 4路四电平串口模块</a> 
 
-* |MD0778 ZN010-CH348Q|
+* |MD0778-CH348 8路双电平串口模块|
 
-.. |MD0778 ZN010-CH348Q| raw:: html
+.. |MD0778-CH348 8路双电平串口模块| raw:: html
 
-  <a href="https://md0778.readthedocs.io/en/latest/" target="_blank">MD0778 ZN010-CH348Q</a> 
+  <a href="https://www.keyesrobot.cn/projects/md0778/en/latest/" target="_blank">MD0778-CH348 8路双电平串口模块</a> 
