@@ -6,10 +6,16 @@
 
 .. |MD0776 ZN001-CH340C| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/MD0776/en/latest/" target="_blank">MD0776 ZN001-CH340C</a> 
+  <a href="https://md0776.readthedocs.io/en/latest/" target="_blank">MD0776 ZN001-CH340C</a> 
 
 * |MD0777 ZN004-CH344Q|
 
 .. |MD0777 ZN004-CH344Q| raw:: html
 
   <a href="https://md0777.readthedocs.io/en/latest/" target="_blank">MD0777 ZN004-CH344Q</a> 
+
+* |MD0778 ZN010-CH348Q|
+
+.. |MD0778 ZN010-CH348Q| raw:: html
+
+  <a href="https://md0778.readthedocs.io/en/latest/" target="_blank">MD0778 ZN010-CH348Q</a> 
