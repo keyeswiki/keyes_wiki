@@ -6,7 +6,7 @@
 
 .. |MD0776 ZN001-CH340C| raw:: html
 
-  <a href="https://md0776.readthedocs.io/en/latest/" target="_blank">MD0776 ZN001-CH340C</a> 
+  <a href="https://www.keyesrobot.cn/projects/MD0776/en/latest/" target="_blank">MD0776 ZN001-CH340C</a> 
 
 * |MD0777 ZN004-CH344Q|
 
