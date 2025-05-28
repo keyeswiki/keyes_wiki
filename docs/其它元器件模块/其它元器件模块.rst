@@ -2,6 +2,9 @@
 其它元器件模块
 =============
 
+* |MD0776 ZN001-CH340C|
 
+.. |MD0776 ZN001-CH340C| raw:: html
 
+  <a href="https://www.keyesrobot.cn/projects/commonsensor/zh-cn/latest/https://www.keyesrobot.cn/projects/commonsensor/zh-cn/latest/https://md0776.readthedocs.io/en/latest/docs/MD0776.html" target="_blank">MD0776 ZN001-CH340C</a> 
 
