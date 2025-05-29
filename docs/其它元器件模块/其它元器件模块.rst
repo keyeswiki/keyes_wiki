@@ -6,16 +6,16 @@
 
 .. |MD0776-CH340 四电平 升级刷机板| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/MD0776/latest/" target="_blank">MD0776-CH340 四电平 升级刷机板</a> 
+  <a href="https://www.keyesrobot.cn/projects/MD0776/" target="_blank">MD0776-CH340 四电平 升级刷机板</a> 
 
 * |MD0777-CH344 4路四电平串口模块|
 
 .. |MD0777-CH344 4路四电平串口模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/MD0777/latest/" target="_blank">MD0777-CH344 4路四电平串口模块</a> 
+  <a href="https://www.keyesrobot.cn/projects/MD0777/" target="_blank">MD0777-CH344 4路四电平串口模块</a> 
 
 * |MD0778-CH348 8路双电平串口模块|
 
 .. |MD0778-CH348 8路双电平串口模块| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/MD0778/latest/" target="_blank">MD0778-CH348 8路双电平串口模块</a> 
+  <a href="https://www.keyesrobot.cn/projects/MD0778/" target="_blank">MD0778-CH348 8路双电平串口模块</a> 
