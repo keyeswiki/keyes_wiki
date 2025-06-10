@@ -5,11 +5,27 @@ ESP32
 ESP32 小智AI 聊天机器人
 ======================
 
-* |小智AI聊天机器人|
+* |KT0305 小智AI聊天机器人面包板DIY套装 128x32 OLED屏|
 
-.. |小智AI聊天机器人| raw:: html
+.. |KT0305 小智AI聊天机器人面包板DIY套装 128x32 OLED屏| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/xiaozhi" target="_blank">小智AI聊天机器人</a>
+  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/OLED128x32/OLED128x32.html" target="_blank">KT0305 小智AI聊天机器人面包板DIY套装 128x32 OLED屏</a>
+
+
+* |KT0306 小智AI聊天机器人面包板DIY套装 128x64 OLED屏|
+
+.. |KT0306 小智AI聊天机器人面包板DIY套装 128x64 OLED屏| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/OLED128x64/OLED128x64.html" target="_blank">KT0306 小智AI聊天机器人面包板DIY套装 128x64 OLED屏</a>
+
+
+* |KT0307 小智AI聊天机器人面包板DIY套装 LCD1.54彩屏|
+
+.. |KT0307 小智AI聊天机器人面包板DIY套装 LCD1.54彩屏| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/LCD154/LCD154.html" target="_blank">KT0307 小智AI聊天机器人面包板DIY套装 LCD1.54彩屏</a>
+
+
 
 
 esp32开发板
