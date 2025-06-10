@@ -15,14 +15,6 @@
 
 
 
-Raspberry Pi Pico 机器人
-===================
-
-* |KE3064 KEYES 4WD Raspberry Pi Pico 麦克纳姆轮智能小车|
-
-.. |KE3064 KEYES 4WD Raspberry Pi Pico 麦克纳姆轮智能小车| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KE3064" target="_blank">KE3064 KEYES 4WD Raspberry Pi Pico 麦克纳姆轮智能小车</a>
 
 
 
