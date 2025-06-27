@@ -1511,6 +1511,17 @@ STEMdiy系列传感器和模块
 
   <a href="https://www.keyesrobot.cn/projects/KE4075/zh-cn/latest/" target="_blank">KE4075 Keyes DIY电子积木 紫色LED模块</a>
 
+* |KE4085 Keyes STEM电子积木 I2S音频功率放大器模块 黑色环保|
+
+.. |KE4085 Keyes STEM电子积木 I2S音频功率放大器模块 黑色环保| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4085/zh-cn/latest/" target="_blank">KE4085 Keyes STEM电子积木 I2S音频功率放大器模块 黑色环保</a>
+
+* |KE4086 Keyes STEM电子积木 MES麦克风模块 黑色环保|
+
+.. |KE4086 Keyes STEM电子积木 MES麦克风模块 黑色环保| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4086/zh-cn/latest/" target="_blank">KE4086 Keyes STEM电子积木 MES麦克风模块 黑色环保</a>
 
 
 
