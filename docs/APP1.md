@@ -1,7 +1,7 @@
 # APP
 
 |APP名称|APP LOGO|安卓 APK|苹果商店|
-|-|-|-|-|
+|:-:|:-:|:-:|:-:|
 |Frog Otto|![](./APP/FrogOtto.jpg)| [点击下载](https://xiazai.keyesrobot.cn/APP/Frog%20Otto.apk) | [跳转App Store](https://apps.apple.com/cn/app/frog-otto/id1468989742) |
 |IOT farm|![](./APP/IOTfarm.png)| [点击下载](https://xiazai.keyesrobot.cn/APP/IOT%20farm.apk) | [跳转App Store](https://apps.apple.com/cn/app/iot-farm/id6449963351) |
 |keyes arm|![](./APP/keyesarm.png)| [点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20arm.apk) | [跳转App Store](https://apps.apple.com/cn/app/keyes-arm/id1487006837) |
