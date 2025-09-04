@@ -66,6 +66,14 @@ Arduino
 
   <a href="https://www.keyesrobot.cn/projects/MB0176" target="_blank">MB0176 Mega 2560 R3 Board</a>
 
+* |KE0187 keyes NANO 扩展板 兼容Arduino Nano3.0/4.0|
+
+.. |KE0187 keyes NANO 扩展板 兼容Arduino Nano3.0/4.0| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE0187" target="_blank">KE0187 keyes NANO 扩展板 兼容Arduino Nano3.0/4.0</a>
+
+
+
 
 
 
