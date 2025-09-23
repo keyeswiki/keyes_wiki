@@ -24,6 +24,7 @@
 |Beetlebot|![](./APP/Beetlebot.png)| [点击下载](https://xiazai.keyesrobot.cn/APP/Beetlebot.apk) |  |
 |keyes Bit Car|![](./APP/keyesBitCar.png)| [点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20Bit%20Car.apk) |[跳转App Store](https://apps.apple.com/cn/app/keyes-bit-car/id1524897128)|
 |IoT keyes|![](./APP/IoTkeyes.png)| [点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20IoT.apk) |[跳转App Store](https://apps.apple.com/cn/app/iot-keyes/id1487578236)|
+|蓝牙调试器|![](./APP/BluetoothAPP.jpg)| [点击下载](https://xiazai.keyesrobot.cn/APP/%E8%93%9D%E7%89%99%E8%B0%83%E8%AF%95%E5%99%A8%20V1.9.apk) |  |
 
 
 
