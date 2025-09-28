@@ -1433,6 +1433,12 @@ STEMdiy系列传感器和模块
 
   <a href="https://www.keyesrobot.cn/projects/KE4058/zh-cn/latest/" target="_blank">KE4058 Keyes DIY电子积木 MAX30102心率传感器</a>
 
+* |KE4060 Keyes 2021新款 DIY电子积木 TM1650四位数码管模块|
+
+.. |KE4060 Keyes 2021新款 DIY电子积木 TM1650四位数码管模块| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4060/zh-cn/latest/" target="_blank">KE4060 Keyes 2021新款 DIY电子积木 TM1650四位数码管模块</a>
+
 * |KE4061 Keyes DIY电子积木 LCD_128X32_DOT模块|
 
 .. |KE4061 Keyes DIY电子积木 LCD_128X32_DOT模块| raw:: html
