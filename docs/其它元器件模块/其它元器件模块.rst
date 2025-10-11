@@ -2,6 +2,12 @@
 其它元器件模块
 =============
 
+* |MD0766 WIFI授时版|
+
+.. |MD0766 WIFI授时版| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0766/" target="_blank">MD0766 WIFI授时版</a>
+
 * |MD0776-CH340 四电平 升级刷机板|
 
 .. |MD0776-CH340 四电平 升级刷机板| raw:: html
