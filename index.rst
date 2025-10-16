@@ -8,7 +8,6 @@
    docs/esp32/ESP32
    docs/microbit/Microbit
    docs/raspberrypi/树莓派
-   docs/raspberrypi/pico
    docs/sensor/sensor
    docs/display/display
    docs/其它元器件模块/其它元器件模块
