@@ -10,14 +10,6 @@
 
 
 
-* |科易天猫旗舰店|
-
-.. |科易天猫旗舰店| raw:: html
-
-  <a href="https://keyes.tmall.com/" target="_blank">科易天猫旗舰店</a>
-
-
-
 * |Arduino开发环境使用说明|
 
 .. |Arduino开发环境使用说明| raw:: html
