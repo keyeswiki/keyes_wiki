@@ -2,6 +2,12 @@
 其它元器件模块
 =============
 
+* |MB0183 S3 mini|
+
+.. |MB0183 S3 mini| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MB0183/" target="_blank">MB0183 S3 mini</a>
+
 * |MD0766 WIFI授时版|
 
 .. |MD0766 WIFI授时版| raw:: html
