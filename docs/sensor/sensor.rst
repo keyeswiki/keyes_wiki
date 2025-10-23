@@ -1535,6 +1535,14 @@ STEMdiy系列传感器和模块
 
   <a href="https://www.keyesrobot.cn/projects/KE4086/zh-cn/latest/" target="_blank">KE4086 Keyes STEM电子积木 MES麦克风模块 黑色环保</a>
 
+* |KE4089 Keyes STEM电子积木 ICS麦克风模块 黑色环保|
+
+.. |KE4089 Keyes STEM电子积木 ICS麦克风模块 黑色环保| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4089/zh-cn/latest/" target="_blank">KE4089 Keyes STEM电子积木 ICS麦克风模块 黑色环保</a>
+
+
+
 
 
 
