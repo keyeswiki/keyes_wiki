@@ -8,6 +8,12 @@
 
   <a href="https://www.keyesrobot.cn/projects/MB0183/" target="_blank">MB0183 S3 mini</a>
 
+* |MB0184 S3 cam|
+
+.. |MB0184 S3 cam| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MB0184/" target="_blank">MB0184 S3 cam</a>
+
 * |MD0766 WIFI授时版|
 
 .. |MD0766 WIFI授时版| raw:: html
