@@ -50,4 +50,8 @@
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  CH340   | [👉🏼点击下载](https://xiazai.keyesrobot.cn/software/ch340/CH341SER.ZIP) | [👉🏼点击下载](https://xiazai.keyesrobot.cn/software/ch340/CH34XSER_MAC.ZIP) |
 |  CP2102  | [👉🏼点击下载](https://xiazai.keyesrobot.cn/software/cp2102/CP2102_Driver.zip) | [👉🏼点击下载](https://xiazai.keyesrobot.cn/software/cp2102/Mac_OSX_VCP_Driver.zip) |
+|  CP2102（旧）  | [👉🏼点击下载](https://xiazai.keyesrobot.cn/software/cp2102/drivers_uno.7z) |  |
+
+
+
 
