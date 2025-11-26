@@ -153,6 +153,12 @@ esp32 学习套装
 
   <a href="https://www.keyesrobot.cn/projects/KE3100" target="_blank">KE3100 Keyes ESP32物联网智能农场学习套件 基于Arduino</a>
 
+* |KE3103 Keyes IOT ESP32智能家居套件V2|
+
+.. |KE3103 Keyes IOT ESP32智能家居套件V2| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3103" target="_blank">KE3103 Keyes IOT ESP32智能家居套件V2</a>
+
 
 
 
