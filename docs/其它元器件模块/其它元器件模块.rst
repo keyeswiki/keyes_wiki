@@ -14,6 +14,12 @@
 
   <a href="https://www.keyesrobot.cn/projects/MB0184/" target="_blank">MB0184 S3 cam</a>
 
+* |MD0402对射光电传感器|
+
+.. |MD0402对射光电传感器| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0402/" target="_blank">MD0402对射光电传感器</a>
+
 * |MD0766 WIFI授时版|
 
 .. |MD0766 WIFI授时版| raw:: html
