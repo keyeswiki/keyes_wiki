@@ -27,7 +27,7 @@
 |  keyes Bit Car  |  ![image42](./media/keyesBitCar.png)  | [👇点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20Bit%20Car.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/keyes-bit-car/id1524897128) |
 |    IoT keyes    |   ![image43](./media/IoTkeyes.png)    | [👇点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20IoT.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/iot-keyes/id1487578236) |
 |   蓝牙调试器    | ![image44](./media/BluetoothAPP.jpg)  | [👇点击下载](https://xiazai.keyesrobot.cn/APP/蓝牙调试器%20V1.9.apk) |                           暂未上架                           |
-| Balance car Keyes       | ![](./media/BalancecarKeyes.jpg)      | [👇点击下载](https://xiazai.keyesrobot.cn/APP/Balance_car_Keyes.apk) |       | 暂未上架                                            |
+| Balance car Keyes       | ![](./media/BalancecarKeyes.jpg)      | [👇点击下载](https://xiazai.keyesrobot.cn/APP/Balance_car_Keyes.apk) |   暂未上架    | 暂未上架                                            |
 
 ## 💻 编程软件下载
 
