@@ -75,6 +75,12 @@
 
   <a href="https://www.keyesrobot.cn/projects/TS2408/" target="_blank">TS2408 Micro SD卡读写模块</a>
 
+* |KE4090 Keyes 新款 DIY电子积木 新型电容式土壤湿度传感器|
+
+.. |KE4090 Keyes 新款 DIY电子积木 新型电容式土壤湿度传感器| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4090/" target="_blank">KE4090 Keyes 新款 DIY电子积木 新型电容式土壤湿度传感器</a>
+
 
 
 
