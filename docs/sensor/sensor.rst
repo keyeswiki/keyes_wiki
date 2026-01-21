@@ -916,6 +916,12 @@ brick系列传感器和模块
 
   <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2046%20Keyes%20Brick%20SHT10%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE2046 Keyes Brick SHT10传感器综合指南</a> 
 
+* |KE2047 keyes brick巡线传感器（焊盘孔）防反插白色端子|
+
+.. |KE2047 keyes brick巡线传感器（焊盘孔）防反插白色端子| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/brick/zh-cn/latest/KE2047%20keyes%20brick%20%E5%B7%A1%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8.html" target="_blank">KE2047 keyes brick巡线传感器（焊盘孔）防反插白色端子</a> 
+
 * |KE2048 Keyes Brick 光折断传感器综合指南|
 
 .. |KE2048 Keyes Brick 光折断传感器综合指南| raw:: html
@@ -1540,6 +1546,14 @@ STEMdiy系列传感器和模块
 .. |KE4089 Keyes STEM电子积木 ICS麦克风模块 黑色环保| raw:: html
 
   <a href="https://www.keyesrobot.cn/projects/KE4089/zh-cn/latest/" target="_blank">KE4089 Keyes STEM电子积木 ICS麦克风模块 黑色环保</a>
+
+* |KE4090 Keyes 新款 DIY电子积木 新型电容式土壤湿度传感器|
+
+.. |KE4090 Keyes 新款 DIY电子积木 新型电容式土壤湿度传感器| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4090/" target="_blank">KE4090 Keyes 新款 DIY电子积木 新型电容式土壤湿度传感器</a>
+
+
 
 
 
