@@ -19,14 +19,6 @@
 Pico 套件
 =========
 
-
-* |KE3032 Keyes 树莓派Pico 24合1传感器学习套件（含主板）|
-
-.. |KE3032 Keyes 树莓派Pico 24合1传感器学习套件（含主板）| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KE3032" target="_blank">KE3032 Keyes 树莓派Pico 24合1传感器学习套件（含主板）</a>
-
-
 * |KE3034 Keyes 树莓派Pico 37合1传感器学习套件（含主板）|
 
 .. |KE3034 Keyes 树莓派Pico 37合1传感器学习套件（含主板）| raw:: html
