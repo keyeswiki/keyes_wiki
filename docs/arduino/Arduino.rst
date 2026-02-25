@@ -151,6 +151,12 @@ Arduino机器人
 
   <a href="https://www.keyesrobot.cn/projects/KE0165" target="_blank">KE0165 Keyes套件 4WD 蓝牙 多功能智能小车</a>
 
+* |KE0165P Keyes套件 4WD 蓝牙 多功能智能小车|
+
+.. |KE0165P Keyes套件 4WD 蓝牙 多功能智能小车| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE0165P" target="_blank">KE0165P Keyes套件 4WD 蓝牙 多功能智能小车</a>
+
 
 * |KE0166P Keyes套件 小乌龟 多功能智能小车 PLUS主板|
 
@@ -370,9 +376,11 @@ Arduino套件
 
   <a href="https://www.keyesrobot.cn/projects/KE3004" target="_blank">KE3004 Keyes brick 智能家居套装 ARDUINO米思奇创客教育编程套装 防反插白色端子</a>
 
+* |KE3020 Keyes Arduino DIY电子积木 42合1 传感器套装|
 
+.. |KE3020 Keyes Arduino DIY电子积木 42合1 传感器套装| raw:: html
 
-
+  <a href="https://www.keyesrobot.cn/projects/KE3020" target="_blank">KE3020 Keyes Arduino DIY电子积木 42合1 传感器套装</a>
 
 
 * |KE3071 keyes人体感应套件|
