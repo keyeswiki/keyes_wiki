@@ -28,6 +28,7 @@
 |    IoT keyes    |   ![image43](./media/IoTkeyes.png)    | [👇点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20IoT.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/iot-keyes/id1487578236) |
 |   蓝牙调试器    | ![image44](./media/BluetoothAPP.jpg)  | [👇点击下载](https://xiazai.keyesrobot.cn/APP/蓝牙调试器%20V1.9.apk) |                           暂未上架                           |
 | Balance car Keyes       | ![](./media/BalancecarKeyes.jpg)      | [👇点击下载](https://xiazai.keyesrobot.cn/APP/Balance_car_Keyes.apk) |   暂未上架    |
+| Serial Bluetooth Terminal | ![img](./media/OIP-C.webp) | [👇点击下载](https://xiazai.keyesrobot.cn/APP/Serial%20Bluetooth%20Terminal_1.49.apk) | 暂未上架 |
 
 ## 💻 编程软件下载
 
@@ -58,7 +59,7 @@
 
 | 软件     |                             下载                          |
 | :------: | :------------------------------------------------------: |
-|  字模提取   | [👉🏼点击下载](./media/%E5%AD%97%E6%A8%A1%E6%8F%90%E5%8F%96V2.2.zip) |
+|  字模提取（Windows系统）  | [👉🏼点击下载](./media/%E5%AD%97%E6%A8%A1%E6%8F%90%E5%8F%96V2.2.zip) |
 
 
 
