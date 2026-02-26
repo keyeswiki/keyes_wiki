@@ -69,6 +69,12 @@
 
   <a href="https://www.keyesrobot.cn/projects/KE3105/" target="_blank">KE3105 Sengo2 AI视觉图卡创客扩展包</a>
 
+* |TS1151 LCD1602字符按键液晶屏输入输出扩展板|
+
+.. |TS1151 LCD1602字符按键液晶屏输入输出扩展板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/TS1151/" target="_blank">TS1151 LCD1602字符按键液晶屏输入输出扩展板</a>
+
 * |TS2408 Micro SD卡读写模块|
 
 .. |TS2408 Micro SD卡读写模块| raw:: html
