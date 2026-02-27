@@ -50,6 +50,18 @@ esp32开发板
 
   <a href="https://www.keyesrobot.cn/projects/ESP32-S3/zh-cn/latest/" target="_blank">ESP32-S3-DevKitC-1 开发板</a>
 
+* |MB0183 S3 mini|
+
+.. |MB0183 S3 mini| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MB0183/" target="_blank">MB0183 S3 mini</a>
+
+* |MB0184 S3 cam|
+
+.. |MB0184 S3 cam| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MB0184/" target="_blank">MB0184 S3 cam</a>
+
 esp32扩展板
 ==========
 
