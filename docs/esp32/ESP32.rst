@@ -89,6 +89,13 @@ esp32扩展板
 
   <a href="https://www.keyesrobot.cn/projects/ESP32CAMShield/zh-cn/latest/" target="_blank">MD0632 ESP32-CAM 扩展底板</a>
 
+* |MD2001 ESP32 S3 Cam AI Sensor Shield - Pin header 黑色环保|
+
+.. |MD2001 ESP32 S3 Cam AI Sensor Shield - Pin header 黑色环保| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD2001/zh-cn/latest/" target="_blank">MD2001 ESP32 S3 Cam AI Sensor Shield - Pin header 黑色环保</a>
+
+
 esp32 模组
 ==========
 
