@@ -227,12 +227,6 @@ Arduino机器人
 
   <a href="https://www.keyesrobot.cn/projects/KE3052" target="_blank">KE3052 Keyes套件 麦克纳姆轮小车 传感器套件</a>
 
-* |KE3106 语音控制与WiFi控制扩展包|
-
-.. |KE3106 语音控制与WiFi控制扩展包| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KE3106/" target="_blank">KE3106 语音控制与WiFi控制扩展包</a>
-
 
 
 
@@ -503,6 +497,13 @@ Arduino套件
 .. |KE3097(KE3097S) Keyes STEM电子积木 传感器初级套件| raw:: html
 
   <a href="https://www.keyesrobot.cn/projects/KE3097-KE3097S" target="_blank">KE3097(KE3097S) Keyes STEM电子积木 传感器初级套件</a>
+
+* |KE3106 语音控制与WiFi控制扩展包|
+
+.. |KE3106 语音控制与WiFi控制扩展包| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3106/" target="_blank">KE3106 语音控制与WiFi控制扩展包</a>
+
 
 
 
