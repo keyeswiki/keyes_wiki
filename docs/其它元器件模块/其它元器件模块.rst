@@ -75,7 +75,11 @@
 
   <a href="https://www.keyesrobot.cn/projects/TS2408/" target="_blank">TS2408 Micro SD卡读写模块</a>
 
+* |KT0186 P10 16x32全彩LED显示模块|
 
+.. |KT0186 P10 16x32全彩LED显示模块| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KT0186/" target="_blank">KT0186 P10 16x32全彩LED显示模块</a>
 
 
 
