@@ -36,7 +36,7 @@
 
 | 版本  |                       Windows系统                        |                           Mac系统                            | 使用教程                                                  |
 | :---: | :------------------------------------------------------: | :----------------------------------------------------------: | --------------------------------------------------------- |
-| 2.0.4 | [✔️点击下载](https://www.kidsblock.cn/Down/KidsBlock.exe) | [✔️点击下载](https://www.kidsblock.cn/Down/KidsBlock-MACOS.dmg) | [✔️点击查看](https://www.keyesrobot.cn/projects/KidsBlock) |
+| 当前最新 | [✔️点击下载](https://www.kidsblock.cn/Down/KidsBlock.exe) | [✔️点击下载](https://www.kidsblock.cn/Down/KidsBlock-MACOS.dmg) | [✔️点击查看](https://www.keyesrobot.cn/projects/KidsBlock) |
 
 ### Mixly软件
 
