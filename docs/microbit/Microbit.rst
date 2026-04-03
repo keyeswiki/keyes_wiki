@@ -11,6 +11,12 @@ Micro bit 扩展板
 
   <a href="https://www.keyesrobot.cn/projects/Microbit-Shield/zh-cn/latest/KE0119%20Keyes%20micro_bit%20T%E5%9E%8B%E6%89%A9%E5%B1%95%E6%9D%BF.html" target="_blank">KE0119 micro:bit T型扩展板 转接头 使用说明</a>
 
+* |KE0120 micro bit 原型扩展板V1，含小面包板|
+
+.. |KE0120 micro bit 原型扩展板V1，含小面包板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE0120/" target="_blank">KE0120 micro bit 原型扩展板V1，含小面包板</a>
+
 * |KE0121 micro:bit 传感器扩展板 使用说明|
 
 .. |KE0121 micro:bit 传感器扩展板 使用说明| raw:: html
