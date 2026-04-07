@@ -45,6 +45,8 @@
 | 1.2.5  | [👇点击下载](https://pan.baidu.com/s/1Mn7TDF2QDLJYgV7oH0z2ig?pwd=keye) | [👇点击下载](https://pan.baidu.com/s/1e7N_delWaVLQ646b8ZzWug=keye) |                           暂未上架                           |
 | 2.0RC0 | [👇点击下载](https://pan.baidu.com/s/1urZP69J7Zj46RjOJpboEvQ?pwd=keye) | [👇点击下载](https://pan.baidu.com/s/1fBIWLUe3T9gbR-PiETr-5A?pwd=keye ) | [👇点击下载](https://pan.baidu.com/s/16L0xsL9roiT70t7DvIjO0Q?pwd=keye) |
 | 2.0RC4 | [👇点击下载](https://pan.baidu.com/s/1YjYgnbvYammvPTdFuFwb8g?pwd=keye) | [👇点击下载](https://pan.baidu.com/s/127Qc_neXv4Mv27H4KP3DPg?pwd=keye ) | [👇点击下载](https://pan.baidu.com/s/1HnrFu7Hke4LRn3R0gAKBjw?pwd=keye) |
+| 3.0RC0 | [👇点击下载](https://pan.baidu.com/s/1VjLHJg2gWc4xtjC3v6D11A?pwd=KEYE) | [👇点击下载](https://pan.baidu.com/s/1VjLHJg2gWc4xtjC3v6D11A?pwd=KEYE ) | [👇点击下载](https://pan.baidu.com/s/1VjLHJg2gWc4xtjC3v6D11A?pwd=KEYE) |
+
 
 ## 🔧 驱动程序下载
 
