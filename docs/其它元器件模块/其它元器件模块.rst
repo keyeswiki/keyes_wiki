@@ -81,7 +81,11 @@
 
   <a href="https://www.keyesrobot.cn/projects/KT0186/" target="_blank">KT0186 P10 16x32全彩LED显示模块</a>
 
+* |22400124-22400125-22400126DC5V-WS2812幻彩低压灯带|
 
+.. |22400124-22400125-22400126DC5V-WS2812幻彩低压灯带| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/22400124-22400125-22400126/" target="_blank">22400124-22400125-22400126DC5V-WS2812幻彩低压灯带</a>
 
 
 
