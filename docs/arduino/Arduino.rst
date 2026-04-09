@@ -374,6 +374,12 @@ Arduino套件
 
   <a href="https://www.keyesrobot.cn/projects/KE3004" target="_blank">KE3004 Keyes brick 智能家居套装 ARDUINO米思奇创客教育编程套装 防反插白色端子</a>
 
+* |KE3015 KE3016 keyes入门学习套件进阶版 基于Arduino|
+
+.. |KE3015 KE3016 keyes入门学习套件进阶版 基于Arduino| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3015-KE3016/" target="_blank">KE3015 KE3016 keyes入门学习套件进阶版 基于Arduino</a>
+
 * |KE3017 KE3018 Keyes 2021入门学习套件|
 
 .. |KE3017 KE3018 Keyes 2021入门学习套件| raw:: html
