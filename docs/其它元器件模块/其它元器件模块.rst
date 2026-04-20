@@ -8,6 +8,12 @@
 
   <a href="https://www.keyesrobot.cn/projects/MD0402/" target="_blank">MD0402对射光电传感器</a>
 
+* |MD0534 22.5W充电宝5口双向快充移动电源模块|
+
+.. |MD0534 22.5W充电宝5口双向快充移动电源模块| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0534/" target="_blank">MD0534 22.5W充电宝5口双向快充移动电源模块</a>
+
 * |MD0766 WIFI授时版|
 
 .. |MD0766 WIFI授时版| raw:: html
