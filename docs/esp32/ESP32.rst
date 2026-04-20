@@ -9,21 +9,26 @@ ESP32 小智AI 聊天机器人
 
 .. |KT0305 小智AI聊天机器人面包板DIY套装 128x32 OLED屏| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/OLED128x32/OLED128x32.html" target="_blank">KT0305 小智AI聊天机器人面包板DIY套装 128x32 OLED屏</a>
-
+  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/KT0305_OLED128x32/OLED128x32.html" target="_blank">KT0305 小智AI聊天机器人面包板DIY套装 128x32 OLED屏</a>
 
 * |KT0306 小智AI聊天机器人面包板DIY套装 128x64 OLED屏|
 
 .. |KT0306 小智AI聊天机器人面包板DIY套装 128x64 OLED屏| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/OLED128x64/OLED128x64.html" target="_blank">KT0306 小智AI聊天机器人面包板DIY套装 128x64 OLED屏</a>
-
+  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/KT0306_OLED128x64/OLED128x64.html" target="_blank">KT0306 小智AI聊天机器人面包板DIY套装 128x64 OLED屏</a>
 
 * |KT0307 小智AI聊天机器人面包板DIY套装 LCD1.54彩屏|
 
 .. |KT0307 小智AI聊天机器人面包板DIY套装 LCD1.54彩屏| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/LCD154/LCD154.html" target="_blank">KT0307 小智AI聊天机器人面包板DIY套装 LCD1.54彩屏</a>
+  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/KT0307_LCD154/LCD154.html" target="_blank">KT0307 小智AI聊天机器人面包板DIY套装 LCD1.54彩屏</a>
+
+* |KT0373 小智AI聊天机器人面包板DIY套装带摄像头|
+
+.. |KT0373 小智AI聊天机器人面包板DIY套装带摄像头| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/KT0373_CAM/s3cam.html" target="_blank">KT0373 小智AI聊天机器人面包板DIY套装带摄像头</a>
+
 
 
 
