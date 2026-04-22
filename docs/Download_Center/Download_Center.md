@@ -60,6 +60,7 @@
 | 软件     |                             下载                          |
 | :------: | :------------------------------------------------------: |
 |  字模提取（Windows系统）  | [👉🏼点击下载](./media/%E5%AD%97%E6%A8%A1%E6%8F%90%E5%8F%96V2.2.zip) |
+|  Processing  V2.2.1（Win） | [👉🏼点击下载](https://pan.baidu.com/s/1jt1FmGEHetI5bQJCguwg9g?pwd=KEYE) |
 
 
 

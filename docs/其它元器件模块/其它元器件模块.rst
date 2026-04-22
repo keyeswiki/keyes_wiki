@@ -2,6 +2,12 @@
 其它元器件模块
 =============
 
+* |MD0339 Keyes AD8232 心电图监测传感器模块|
+
+.. |MD0339 Keyes AD8232 心电图监测传感器模块| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0339/" target="_blank">MD0339 Keyes AD8232 心电图监测传感器模块</a>
+
 * |MD0402对射光电传感器|
 
 .. |MD0402对射光电传感器| raw:: html
