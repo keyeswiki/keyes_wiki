@@ -95,6 +95,13 @@
 
 
 
+* |KY0076 XD-58C PulseSensor脉搏心率传感器|
+
+.. |KY0076 XD-58C PulseSensor脉搏心率传感器| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KY0076/" target="_blank">KY0076 XD-58C PulseSensor脉搏心率传感器</a>
+
+
 
 
 
