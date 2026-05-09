@@ -110,6 +110,14 @@
 
 
 
+* |OR0427  JM2KG舵机|
+
+.. |OR0427  JM2KG舵机| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/OR0427/zh-cn/latest/" target="_blank">OR0427  JM2KG舵机</a>
+
+
+
 
 
 
