@@ -102,6 +102,13 @@
   <a href="https://www.keyesrobot.cn/projects/KY0076/" target="_blank">KY0076 XD-58C PulseSensor脉搏心率传感器</a>
 
 
+* |OR0422 JM2KG(小速比)齿轮箱|
+
+.. |OR0422 JM2KG(小速比)齿轮箱| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/OR0422/zh-cn/latest/" target="_blank">OR0422 JM2KG(小速比)齿轮箱</a>
+
+
 
 
 
