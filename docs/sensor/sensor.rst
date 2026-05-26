@@ -619,6 +619,14 @@
 
 
 
+* |MD0587_MD0621 HC-05/HC-06 蓝牙模块|
+
+.. |MD0587_MD0621 HC-05/HC-06 蓝牙模块| raw:: html
+
+  <a href="https://md0587-md0621.readthedocs.io/zh-cn/latest/" target="_blank">MD0587_MD0621 HC-05/HC-06 蓝牙模块</a> 
+
+
+
 
 
 
