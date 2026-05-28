@@ -67,6 +67,18 @@ esp32开发板
 
   <a href="https://www.keyesrobot.cn/projects/MB0184/" target="_blank">MB0184 S3 cam</a>
 
+
+
+* |MB0198 猫脸摄像头 黑色环保|
+
+.. |MB0198 猫脸摄像头 黑色环保| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MB0198/zh-cn/latest/" target="_blank">MB0198 猫脸摄像头 黑色环保</a>
+
+
+
+
+
 esp32扩展板
 ==========
 
