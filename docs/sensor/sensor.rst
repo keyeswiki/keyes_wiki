@@ -618,6 +618,12 @@
   <a href="https://www.keyesrobot.cn/projects/commonsensor/zh-cn/latest/KE0178%20Keyes%20TM1637%204%E4%BD%8D%E6%95%B0%E7%A0%81%E7%AE%A1%E6%A8%A1%E5%9D%97%E7%BB%BC%E5%90%88%E6%8C%87%E5%8D%97.html" target="_blank">KE0178 Keyes TM1637 4位数码管模块综合指南</a> 
 
 
+* |KE0193 KEYES 水位传感器模块|
+
+.. |KE0193 KEYES 水位传感器模块| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE0193/zh-cn/latest/" target="_blank">KE0193 KEYES 水位传感器模块</a> 
+
 
 
 
