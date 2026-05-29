@@ -69,11 +69,11 @@ esp32开发板
 
 
 
-* |MB0198 猫脸摄像头 黑色环保|
+* |MB0199 猫脸摄像头 黑色环保 带USB线与连接线|
 
-.. |MB0198 猫脸摄像头 黑色环保| raw:: html
+.. |MB0199 猫脸摄像头 黑色环保 带USB线与连接线| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/MB0198/zh-cn/latest/" target="_blank">MB0198 猫脸摄像头 黑色环保</a>
+  <a href="https://www.keyesrobot.cn/projects/MB0199/zh-cn/latest/" target="_blank">MB0199 猫脸摄像头 黑色环保 带USB线与连接线</a>
 
 
 
