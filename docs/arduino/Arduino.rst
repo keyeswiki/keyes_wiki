@@ -194,6 +194,14 @@ Arduino机器人
 
 
 
+* |KE0194 Keyes 迷你履带坦克机器人套件|
+
+.. |KE0194 Keyes 迷你履带坦克机器人套件| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE0194/zh-cn/latest/" target="_blank">KE0194 Keyes 迷你履带坦克机器人套件</a>
+
+
+
 * |KE3066 Keyes Beetlebot Arduino 3合1 智能小车（含主板）|
 
 .. |KE3066 Keyes Beetlebot Arduino 3合1 智能小车（含主板）| raw:: html
