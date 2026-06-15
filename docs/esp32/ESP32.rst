@@ -69,6 +69,15 @@ esp32开发板
 
 
 
+* |MB0200 S3 cam 开发板|
+
+.. |MB0200 S3 cam 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MB0200_S3_cam/zh-cn/latest/" target="_blank">MB0200 S3 cam 开发板</a>
+
+
+
+
 * |MB0199 猫脸摄像头 黑色环保 带USB线与连接线|
 
 .. |MB0199 猫脸摄像头 黑色环保 带USB线与连接线| raw:: html
