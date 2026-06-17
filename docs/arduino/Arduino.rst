@@ -194,14 +194,6 @@ Arduino机器人
 
 
 
-* |KE0170P Keyes 迷你坦克机器人|
-
-.. |KE0170P Keyes 迷你坦克机器人| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KE0170P/zh-cn/latest/" target="_blank">KE0170P Keyes 迷你坦克机器人</a>
-
-
-
 * |KE0194 Keyes 迷你履带坦克机器人套件|
 
 .. |KE0194 Keyes 迷你履带坦克机器人套件| raw:: html
