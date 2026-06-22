@@ -236,6 +236,21 @@ esp32机器人
 
 
 
+* |KE3108 Sengo1 AI视觉图卡创客扩展包|
+
+.. |KE3108 Sengo1 AI视觉图卡创客扩展包| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3108/zh-cn/latest/" target="_blank">KE3108 Sengo1 AI视觉图卡创客扩展包</a>
+
+
+
+* |KE3109 Sengo2 AI视觉图卡创客扩展包（3合1小车）|
+
+.. |KE3109 Sengo2 AI视觉图卡创客扩展包（3合1小车）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3109/zh-cn/latest/" target="_blank">KE3109 Sengo2 AI视觉图卡创客扩展包（3合1小车）</a>
+
+
 
 
 
