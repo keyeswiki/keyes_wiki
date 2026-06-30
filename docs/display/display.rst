@@ -15,6 +15,32 @@ TFT显示屏
 
 
 
+树莓派摄像头
+=============
+
+* |SMP0023 树莓派摄像头|
+
+.. |SMP0023 树莓派摄像头| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/SMP0023/" target="_blank">SMP0023 树莓派摄像头</a> 
+
+
+* |SMP0079 树莓派摄像头|
+
+.. |SMP0079 树莓派摄像头| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/SMP0079/" target="_blank">SMP0079 树莓派摄像头</a> 
+
+
+* |SMP0083 树莓派摄像头|
+
+.. |SMP0083 树莓派摄像头| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/SMP0083/" target="_blank">SMP0083 树莓派摄像头</a> 
+
+
+
+
 
 
 
