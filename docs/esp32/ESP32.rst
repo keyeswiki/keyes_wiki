@@ -69,6 +69,15 @@ esp32开发板
 
 
 
+* |MB0200 S3 cam 开发板|
+
+.. |MB0200 S3 cam 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MB0200_S3_cam/zh-cn/latest/" target="_blank">MB0200 S3 cam 开发板</a>
+
+
+
+
 * |MB0199 猫脸摄像头 黑色环保 带USB线与连接线|
 
 .. |MB0199 猫脸摄像头 黑色环保 带USB线与连接线| raw:: html
@@ -225,6 +234,21 @@ esp32机器人
 
   <a href="https://www.keyesrobot.cn/projects/KE3059" target="_blank">KE3059 Keyes Beetlebot ESP32 3合1 智能小车</a>
 
+
+
+* |KE3108 Sengo1 AI视觉图卡创客扩展包|
+
+.. |KE3108 Sengo1 AI视觉图卡创客扩展包| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3108/zh-cn/latest/" target="_blank">KE3108 Sengo1 AI视觉图卡创客扩展包</a>
+
+
+
+* |KE3109 Sengo2 AI视觉图卡创客扩展包（3合1小车）|
+
+.. |KE3109 Sengo2 AI视觉图卡创客扩展包（3合1小车）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3109/zh-cn/latest/" target="_blank">KE3109 Sengo2 AI视觉图卡创客扩展包（3合1小车）</a>
 
 
 
