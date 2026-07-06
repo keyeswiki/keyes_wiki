@@ -410,11 +410,11 @@ Arduino套件
 
   <a href="https://www.keyesrobot.cn/projects/KE3020" target="_blank">KE3020 Keyes Arduino DIY电子积木 42合1 传感器套装</a>
 
-* |KE3025-KE3025S-KE3026-KE3026S-KE3089-KE3090-KE3091-KE3093-KE3093S Keyes Arduino DIY电子积木 37合1 传感器套装|
+* |KE3025-KE3025S-KE3026-KE3026S-KE3093-KE3093S Keyes Arduino DIY电子积木 37合1 传感器套装|
 
-.. |KE3025-KE3025S-KE3026-KE3026S-KE3089-KE3090-KE3091-KE3093-KE3093S Keyes Arduino DIY电子积木 37合1 传感器套装| raw:: html
+.. |KE3025-KE3025S-KE3026-KE3026S-KE3093-KE3093S Keyes Arduino DIY电子积木 37合1 传感器套装| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE3026" target="_blank">KE3025-KE3025S-KE3026-KE3026S-KE3089-KE3090-KE3091-KE3093-KE3093S Keyes Arduino DIY电子积木 37合1 传感器套装</a>
+  <a href="https://www.keyesrobot.cn/projects/KE3026" target="_blank">KE3025-KE3025S-KE3026-KE3026S-KE3093-KE3093S Keyes Arduino DIY电子积木 37合1 传感器套装</a>
 
 * |KE3027-KE3027S-KE3028-KE3028S-KE3092-KE3092S Keyes Arduino DIY电子积木 24合1 传感器套装|
 
