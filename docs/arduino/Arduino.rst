@@ -404,11 +404,11 @@ Arduino套件
 
   <a href="https://www.keyesrobot.cn/projects/KE3017-KE3018" target="_blank">KE3017 KE3018 Keyes 2021入门学习套件</a>
 
-* |KE3020 Keyes Arduino DIY电子积木 42合1 传感器套装|
+* |KE3019-KE3019S-KE3020-KE3020S-KE3094-KE3094S Keyes Arduino DIY电子积木 42合1 传感器套装|
 
-.. |KE3020 Keyes Arduino DIY电子积木 42合1 传感器套装| raw:: html
+.. |KE3019-KE3019S-KE3020-KE3020S-KE3094-KE3094S Keyes Arduino DIY电子积木 42合1 传感器套装| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE3020" target="_blank">KE3020 Keyes Arduino DIY电子积木 42合1 传感器套装</a>
+  <a href="https://www.keyesrobot.cn/projects/KE3020" target="_blank">KE3019-KE3019S-KE3020-KE3020S-KE3094-KE3094S Keyes Arduino DIY电子积木 42合1 传感器套装</a>
 
 * |KE3025-KE3025S-KE3026-KE3026S-KE3093-KE3093S Keyes Arduino DIY电子积木 37合1 传感器套装|
 
