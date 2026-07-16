@@ -1564,6 +1564,14 @@ STEMdiy系列传感器和模块
 
   <a href="https://www.keyesrobot.cn/projects/KE4090/" target="_blank">KE4090 Keyes 新款 DIY电子积木 新型电容式土壤湿度传感器</a>
 
+
+* |KE4091 Keyes I2S音频功率放大器模块（带耳机座）|
+
+.. |KE4091 Keyes I2S音频功率放大器模块（带耳机座）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4091/zh-cn/latest/" target="_blank">KE4091 Keyes I2S音频功率放大器模块（带耳机座）</a>
+
+
 * |KY0126 HY-SRF05超声波传感器|
 
 .. |KY0126 HY-SRF05超声波传感器| raw:: html
