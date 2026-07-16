@@ -86,6 +86,16 @@ esp32开发板
 
 
 
+* |MB0196 S3 AI rover 开发板|
+
+.. |MB0196 S3 AI rover 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MB0196/zh-cn/latest/" target="_blank">MB0196 S3 AI rover 开发板</a>
+
+
+
+
+
 
 
 esp32扩展板
