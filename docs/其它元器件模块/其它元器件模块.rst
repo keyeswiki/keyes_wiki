@@ -20,6 +20,12 @@
 
   <a href="https://www.keyesrobot.cn/projects/MD0534/" target="_blank">MD0534 22.5W充电宝5口双向快充移动电源模块</a>
 
+* |MD0587_MD0621 HC-05/HC-06 蓝牙模块|
+
+.. |MD0587_MD0621 HC-05/HC-06 蓝牙模块| raw:: html
+
+  <a href="https://md0587-md0621.readthedocs.io/zh-cn/latest/" target="_blank">MD0587_MD0621 HC-05/HC-06 蓝牙模块</a>
+
 * |MD0766 WIFI授时版|
 
 .. |MD0766 WIFI授时版| raw:: html
@@ -62,6 +68,12 @@
 
   <a href="https://www.keyesrobot.cn/projects/KT0314-KT0315-KT0316-KT0317/" target="_blank">KT0314-KT0315-KT0316-KT0317液位传感器报警器</a>
 
+* |KT0186 P10 16x32全彩LED显示模块|
+
+.. |KT0186 P10 16x32全彩LED显示模块| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KT0186/" target="_blank">KT0186 P10 16x32全彩LED显示模块</a>
+
 
 * |KE3104 Sengo1 AI视觉图卡创客扩展包|
 
@@ -87,12 +99,6 @@
 
   <a href="https://www.keyesrobot.cn/projects/TS2408/" target="_blank">TS2408 Micro SD卡读写模块</a>
 
-* |KT0186 P10 16x32全彩LED显示模块|
-
-.. |KT0186 P10 16x32全彩LED显示模块| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KT0186/" target="_blank">KT0186 P10 16x32全彩LED显示模块</a>
-
 
 
 * |KY0076 XD-58C PulseSensor脉搏心率传感器|
@@ -108,28 +114,59 @@
 
   <a href="https://www.keyesrobot.cn/projects/OR0422/zh-cn/latest/" target="_blank">OR0422 JM2KG(小速比)齿轮箱</a>
 
+* |OR0427 JM2KG舵机|
 
+.. |OR0427 JM2KG舵机| raw:: html
 
-* |OR0427  JM2KG舵机|
-
-.. |OR0427  JM2KG舵机| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/OR0427/zh-cn/latest/" target="_blank">OR0427  JM2KG舵机</a>
-
-
-
-
-* |MD0587_MD0621 HC-05/HC-06 蓝牙模块|
-
-.. |MD0587_MD0621 HC-05/HC-06 蓝牙模块| raw:: html
-
-  <a href="https://md0587-md0621.readthedocs.io/zh-cn/latest/" target="_blank">MD0587_MD0621 HC-05/HC-06 蓝牙模块</a>
+  <a href="https://www.keyesrobot.cn/projects/OR0427/zh-cn/latest/" target="_blank">OR0427 JM2KG舵机</a>
 
 
 
 
 
 
+
+* |22400154 WS2812 RGB 灯带（10 灯，30 cm，黑色板）|
+
+.. |22400154 WS2812 RGB 灯带（10 灯，30 cm，黑色板）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/22400154/" target="_blank">22400154 WS2812 RGB 灯带（10 灯，30 cm，黑色板）</a>
+
+* |22400156 WS2812 RGB 灯带（30 灯，1 m，白色板）|
+
+.. |22400156 WS2812 RGB 灯带（30 灯，1 m，白色板）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/22400156/" target="_blank">22400156 WS2812 RGB 灯带（30 灯，1 m，白色板）</a>
+
+* |22400157 19720245 WS2812B 幻彩 LED 灯带|
+
+.. |22400157 19720245 WS2812B 幻彩 LED 灯带| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/22400157-19720245/" target="_blank">22400157 19720245 WS2812B 幻彩 LED 灯带</a>
+
+* |MD0535 HC-05 蓝牙串口兼容板（6 针、主从一体、带按键）|
+
+.. |MD0535 HC-05 蓝牙串口兼容板（6 针、主从一体、带按键）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0535/" target="_blank">MD0535 HC-05 蓝牙串口兼容板（6 针、主从一体、带按键）</a>
+
+* |MD0587 HC-06 蓝牙串口兼容模块|
+
+.. |MD0587 HC-06 蓝牙串口兼容模块| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0587/" target="_blank">MD0587 HC-06 蓝牙串口兼容模块</a>
+
+* |MD0621 HC-06 蓝牙串口兼容模块（含连接线）|
+
+.. |MD0621 HC-06 蓝牙串口兼容模块（含连接线）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0621/" target="_blank">MD0621 HC-06 蓝牙串口兼容模块（含连接线）</a>
+
+* |MD0640 HC-05 蓝牙串口兼容板（6 针、主从一体、带按键、含线）|
+
+.. |MD0640 HC-05 蓝牙串口兼容板（6 针、主从一体、带按键、含线）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0640/" target="_blank">MD0640 HC-05 蓝牙串口兼容板（6 针、主从一体、带按键、含线）</a>
 
 
 
