@@ -1572,6 +1572,23 @@ STEMdiy系列传感器和模块
   <a href="https://www.keyesrobot.cn/projects/KE4091/zh-cn/latest/" target="_blank">KE4091 Keyes I2S音频功率放大器模块（带耳机座）</a>
 
 
+
+* |KE4092 Keyes STEM电子积木 130电机-DC3-5V浇花小水泵驱动模块 黑色环保（红色端子）|
+
+.. |KE4092 Keyes STEM电子积木 130电机-DC3-5V浇花小水泵驱动模块 黑色环保（红色端子）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4092/zh-cn/latest/" target="_blank">KE4092 Keyes STEM电子积木 130电机-DC3-5V浇花小水泵驱动模块 黑色环保（红色端子）</a>
+
+
+
+* |KE4093 Keyes STEM电子积木 非接触型液位传感器 黑色环保（红色端子）|
+
+.. |KE4093 Keyes STEM电子积木 非接触型液位传感器 黑色环保（红色端子）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4093/zh-cn/latest/" target="_blank">KE4093 Keyes STEM电子积木 非接触型液位传感器 黑色环保（红色端子）</a>
+
+
+
 * |KY0126 HY-SRF05超声波传感器|
 
 .. |KY0126 HY-SRF05超声波传感器| raw:: html
