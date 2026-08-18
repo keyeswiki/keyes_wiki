@@ -536,12 +536,6 @@ Arduino套件
 
 
 
-* |KE3110 视觉AI摄像头控制与语音控制扩展包|
-
-.. |KE3110 视觉AI摄像头控制与语音控制扩展包| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KE3110/zh-cn/latest/" target="_blank">KE3110 视觉AI摄像头控制与语音控制扩展包</a>
-
 
 
 * |RT0015 超声波测距避障模块云台套件|
