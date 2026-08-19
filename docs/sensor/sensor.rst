@@ -1534,6 +1534,14 @@ STEMdiy系列传感器和模块
 
   <a href="https://www.keyesrobot.cn/projects/KE4082" target="_blank">KE4082 keyes DIY电子积木 雾化模块 黑色 环保（红色端子）</a>
 
+
+* |KE4083-4083S ENS160 空气质量传感器 TVOC、eCO2、AQI 黑色环保|
+
+.. |KE4083-4083S ENS160 空气质量传感器 TVOC、eCO2、AQI 黑色环保| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4083-4083S/zh-cn/latest/" target="_blank">KE4083-4083S ENS160 空气质量传感器 TVOC、eCO2、AQI 黑色环保</a>
+
+
 * |KE4084 KE3101 KE3102 Keyes STEM电子积木 SU03小智中文语音模块|
 
 .. |KE4084 KE3101 KE3102 Keyes STEM电子积木 SU03小智中文语音模块| raw:: html
