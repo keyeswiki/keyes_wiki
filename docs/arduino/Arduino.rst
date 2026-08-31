@@ -547,6 +547,11 @@ Arduino套件
 
 
 
+* |KT0383 TinyVision Ai摄像头|
+
+.. |KT0383 TinyVision Ai摄像头| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KT0383-ch/zh-cn/latest/" target="_blank">KT0383 TinyVision Ai摄像头</a>
 
 
 
