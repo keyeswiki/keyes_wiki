@@ -42,6 +42,14 @@ esp32开发板
 
   <a href="https://www.keyesrobot.cn/projects/ESP32-Shield/zh-cn/latest/KE0162%20Keyes%20ESP32%20Core%20Board.html" target="_blank">KE0162 Keyes ESP32 Core 开发板</a>
 
+
+* |KE0199 Keyes ESP32 Core 开发板|
+
+.. |KE0199 Keyes ESP32 Core 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE0199/zh-cn/latest/" target="_blank">KE0199 Keyes ESP32 Core 开发板</a>
+
+
 * |KE0173 Keyes ESP8266 WiFi 开发板|
 
 .. |KE0173 Keyes ESP8266 WiFi 开发板| raw:: html
