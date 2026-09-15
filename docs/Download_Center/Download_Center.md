@@ -10,7 +10,7 @@
 | keyes IoT home  | ![image26](./media/keyesIoThome.png)  | [👇点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20IOT%20home.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/keyes-iot-home/id1632145752) |
 |  Mecanum Robot  | ![image27](./media/MecanumRobot.png)  | [👇点击下载](https://xiazai.keyesrobot.cn/APP/Mecanum%20Robot.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/mecanum-robot/id1582947578) |
 |   keyes wifi    |   ![image28](./media/keyeswifi.png)   | [👇点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20wifi.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/keyes-link/id1586418833) |
-|    Tank Car     |    ![image29](./media/TankCar.png)    | [👇点击下载](https://xiazai.keyesrobot.cn/APP/Tank%20Car.apk) |                           暂未上架                           |
+|    Tank Car     |    ![image29](./media/TankCar.png)    | [👇点击下载](https://xiazai.keyesrobot.cn/APP/Tank%20Car.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/keyes-bt-car/id1455282913) |
 |  Coding Robot   |  ![image30](./media/CodingRobot.jpg)  | [👇点击下载](https://xiazai.keyesrobot.cn/APP/Coding%20Robot.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/coding-robot/id1461427360) |
 |    keyes 4wd    |   ![image31](./media/keyes4wd.png)    | [👇点击下载](https://xiazai.keyesrobot.cn/APP/keyes%204wd.apk) | [🚀跳转App Store](https://apps.apple.com/cn/app/keyes-bt-car/id1455282913) |
 | keyes RPi Robot | ![image32](./media/keyesRPiRobot.png) | [👇点击下载](https://xiazai.keyesrobot.cn/APP/keyes%20RPi%20Robot.apk) |                           暂未上架                           |
