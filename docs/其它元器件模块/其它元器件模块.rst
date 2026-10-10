@@ -169,10 +169,18 @@
   <a href="https://www.keyesrobot.cn/projects/MD0640/" target="_blank">MD0640 HC-05 蓝牙串口兼容板（6 针、主从一体、带按键、含线）</a>
 
 
+* |MD0848 FTDI Basic程序下载器 红色环保（中性） FT232RL|
+
+.. |MD0848 FTDI Basic程序下载器 红色环保（中性） FT232RL| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/MD0848/zh-cn/latest/" target="_blank">MD0848 FTDI Basic程序下载器 红色环保（中性） FT232RL</a>
 
 
+* |MD0849 FTDI Basic程序下载器 红色环保（中性） FT232RQ|
 
+.. |MD0849 FTDI Basic程序下载器 红色环保（中性） FT232RQ| raw:: html
 
+  <a href="https://www.keyesrobot.cn/projects/MD0849/zh-cn/latest/" target="_blank">MD0849 FTDI Basic程序下载器 红色环保（中性） FT232RQ</a>
 
 
 
