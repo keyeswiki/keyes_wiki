@@ -166,6 +166,14 @@ Arduino机器人
   <a href="https://www.keyesrobot.cn/projects/KE0165P" target="_blank">KE0165P Keyes套件 4WD 蓝牙 多功能智能小车</a>
 
 
+* |KE0166 Keyes套件 多功能小乌龟智能车|
+
+.. |KE0166 Keyes套件 多功能小乌龟智能车| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE0166/zh-cn/latest/" target="_blank">KE0166 Keyes套件 多功能小乌龟智能车</a>
+
+
+
 * |KE0166P Keyes套件 小乌龟 多功能智能小车 PLUS主板|
 
 .. |KE0166P Keyes套件 小乌龟 多功能智能小车 PLUS主板| raw:: html
