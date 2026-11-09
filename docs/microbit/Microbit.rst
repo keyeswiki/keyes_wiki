@@ -96,26 +96,26 @@ Micro bit 套件
 
 
 
-* |KE3038 microbit 基础学习套件（不含主板）|
+* |KE3038（KE3039）microbit 基础学习套件|
 
-.. |KE3038 microbit 基础学习套件（不含主板）| raw:: html
+.. |KE3038（KE3039）microbit 基础学习套件| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KE3038" target="_blank">KE3038 microbit 基础学习套件（不含主板）</a>
-
-
-* |KE3040 microbit 中级学习套件（不含主板）|
-
-.. |KE3040 microbit 中级学习套件（不含主板）| raw:: html
-
-  <a href="https://www.keyesrobot.cn/projects/KE3040" target="_blank">KE3040 microbit 中级学习套件（不含主板）</a>
+  <a href="https://www.keyesrobot.cn/projects/KE3038/zh-cn/latest/" target="_blank">KE3038（KE3039）microbit 基础学习套件</a>
 
 
+* |KE3040（KE3041）microbit 中级学习套件|
 
-* |KE3042 microbit 高级学习套件（不含主板）|
+.. |KE3040（KE3041）microbit 中级学习套件| raw:: html
 
-.. |KE3042 microbit 高级学习套件（不含主板）| raw:: html
+  <a href="https://www.keyesrobot.cn/projects/KE3040/zh-cn/latest/" target="_blank">KE3040（KE3041）microbit 中级学习套件</a>
 
-  <a href="https://www.keyesrobot.cn/projects/KE3042" target="_blank">KE3042 microbit 高级学习套件（不含主板）</a>
+
+
+* |KE3042（KE3043）microbit 高级学习套件|
+
+.. |KE3042（KE3043）microbit 高级学习套件| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3042/zh-cn/latest/" target="_blank">KE3042（KE3043）microbit 高级学习套件</a>
 
 
 
