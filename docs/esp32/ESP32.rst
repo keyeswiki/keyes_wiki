@@ -30,6 +30,17 @@ ESP32 小智AI 聊天机器人
   <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/KT0373_CAM/s3cam.html" target="_blank">KT0373 小智AI聊天机器人面包板DIY套装带摄像头</a>
 
 
+* |KE0195-0196-0197-0198 即用型 ESP32 S3 小智AI聊天机器人DIY套装|
+
+.. |KE0195-0196-0197-0198 即用型 ESP32 S3 小智AI聊天机器人DIY套装| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE0195-0196-0197-0198/zh-cn/latest/" target="_blank">KE0195-0196-0197-0198 即用型 ESP32 S3 小智AI聊天机器人DIY套装</a>
+
+
+
+
+
+
 
 
 
