@@ -43,7 +43,7 @@ ESP32 小智AI 聊天机器人
 
 .. |KT0380 ESP32-S3 主控芯片 智能 AI 语音交互小车| raw:: html
 
-  <a href="https://www.keyesrobot.cn/projects/KT0380/zh-cn/latest/" target="_blank">KT0373 小智AI聊天机器人面包板DIY套装带摄像头</a>
+  <a href="https://www.keyesrobot.cn/projects/KT0380/zh-cn/latest/" target="_blank">KT0380 ESP32-S3 主控芯片 智能 AI 语音交互小车</a>
 
 
 
