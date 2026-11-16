@@ -30,6 +30,23 @@ ESP32 小智AI 聊天机器人
   <a href="https://www.keyesrobot.cn/projects/xiaozhi/zh-cn/latest/KT0373_CAM/s3cam.html" target="_blank">KT0373 小智AI聊天机器人面包板DIY套装带摄像头</a>
 
 
+
+* |KT0378 KT0379 ESP32 S3小智AI聊天机器人 传感器+木板造型扩展包|
+
+.. |KT0378 KT0379 ESP32 S3小智AI聊天机器人 传感器+木板造型扩展包| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KT0378-KT0379/zh-cn/latest/" target="_blank">KT0378 KT0379 ESP32 S3小智AI聊天机器人 传感器+木板造型扩展包</a>
+
+
+
+* |KT0380 ESP32-S3 主控芯片 智能 AI 语音交互小车|
+
+.. |KT0380 ESP32-S3 主控芯片 智能 AI 语音交互小车| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KT0380/zh-cn/latest/" target="_blank">KT0373 小智AI聊天机器人面包板DIY套装带摄像头</a>
+
+
+
 * |KE0195-0196-0197-0198 即用型 ESP32 S3 小智AI聊天机器人DIY套装|
 
 .. |KE0195-0196-0197-0198 即用型 ESP32 S3 小智AI聊天机器人DIY套装| raw:: html
