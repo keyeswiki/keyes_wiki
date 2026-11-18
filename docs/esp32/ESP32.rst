@@ -265,7 +265,11 @@ esp32 学习套装
   <a href="https://www.keyesrobot.cn/projects/KE3107/zh-cn/latest/" target="_blank">KE3107 ESP32物联网智慧校园学习套件</a>
 
 
+* |KE3111 Keyes 4自由度机械手臂 ESP32 学习套装|
 
+.. |KE3111 Keyes 4自由度机械手臂 ESP32 学习套装| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE3111/zh-cn/latest/" target="_blank">KE3111 Keyes 4自由度机械手臂 ESP32 学习套装</a>
 
 
 
