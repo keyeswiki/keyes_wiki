@@ -1596,6 +1596,14 @@ STEMdiy系列传感器和模块
   <a href="https://www.keyesrobot.cn/projects/KE4093/zh-cn/latest/" target="_blank">KE4093 Keyes STEM电子积木 非接触型液位传感器 黑色环保（红色端子）</a>
 
 
+* |KE4094 Keyes STEM电子积木 DS18B20温度传感器 黑色环保（蓝色端子）|
+
+.. |KE4094 Keyes STEM电子积木 DS18B20温度传感器 黑色环保（蓝色端子）| raw:: html
+
+  <a href="https://www.keyesrobot.cn/projects/KE4094/zh-cn/latest/" target="_blank">KE4094 Keyes STEM电子积木 DS18B20温度传感器 黑色环保（蓝色端子）</a>
+
+
+
 
 * |KY0126 HY-SRF05超声波传感器|
 
