@@ -130,6 +130,12 @@ esp32开发板
 
 
 
+* |MB0205 ESP32 S3 Pro 开发板|
+
+.. |MB0205 ESP32 S3 Pro 开发板| raw:: html
+
+  <a href="https://www.keyesrobot.com/projects/MB0205/zh-cn/latest/" target="_blank">MB0205 ESP32 S3 Pro 开发板</a>
+
 
 
 
